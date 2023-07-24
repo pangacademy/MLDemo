@@ -1,0 +1,1004 @@
+,Checking Account,Duration,Credit History,Purpose,Credit Amount,Saving Account,Employment Status,Installment Rate,Personal Status,Guarantors,Years in current address,Property,Age,Installment plans,Housing,Existing Credits,Job,Liable,Risk
+0,little,6,default,radio/television,1169,unknown,>= 7 years,4,male   : single,none,4,real estate,67,none,own,2,skilled employee,1,good
+1,moderate,48,paid back,radio/television,5951,little,1 to <4 years,2,female : divorced/separated/married,none,2,real estate,22,none,own,1,skilled employee,1,bad
+2,No Account,12,default,education,2096,little,4 to <7 years,2,male   : single,none,3,real estate,49,none,own,1,unskilled/resident,2,good
+3,little,42,paid back,furniture/equipment,7882,little,4 to <7 years,2,male   : single,guarantor,4,life insurance,45,none,for free,1,skilled employee,2,good
+4,little,24,delay,car,4870,little,1 to <4 years,3,male   : single,none,4,no property,53,none,for free,2,skilled employee,2,bad
+5,No Account,36,paid back,education,9055,unknown,1 to <4 years,2,male   : single,none,4,no property,35,none,for free,1,unskilled/resident,2,good
+6,No Account,24,paid back,furniture/equipment,2835,quite rich,>= 7 years,3,male   : single,none,4,life insurance,53,none,own,1,skilled employee,1,good
+7,moderate,36,paid back,car,6948,little,1 to <4 years,2,male   : single,none,2,car,35,none,rent,1,management/highly qualified employee,1,good
+8,No Account,12,paid back,radio/television,3059,rich,4 to <7 years,2,male   : divorced/separated,none,4,real estate,61,none,own,1,unskilled/resident,1,good
+9,moderate,30,default,car,5234,little,unemployed,4,male   : married/widowed,none,2,car,28,none,own,2,management/highly qualified employee,1,bad
+10,moderate,12,paid back,car,1295,little,< 1 year,3,female : divorced/separated/married,none,1,car,25,none,rent,1,skilled employee,1,bad
+11,little,48,paid back,business,4308,little,< 1 year,3,female : divorced/separated/married,none,4,life insurance,24,none,rent,1,skilled employee,1,bad
+12,moderate,12,paid back,radio/television,1567,little,1 to <4 years,1,female : divorced/separated/married,none,1,car,22,none,own,1,skilled employee,1,good
+13,little,24,default,car,1199,little,>= 7 years,4,male   : single,none,4,car,60,none,own,2,unskilled/resident,1,bad
+14,little,15,paid back,car,1403,little,1 to <4 years,2,female : divorced/separated/married,none,4,car,28,none,rent,1,skilled employee,1,good
+15,little,24,paid back,radio/television,1282,moderate,1 to <4 years,4,female : divorced/separated/married,none,2,car,32,none,own,1,unskilled/resident,1,bad
+16,No Account,24,default,radio/television,2424,unknown,>= 7 years,4,male   : single,none,4,life insurance,53,none,own,2,skilled employee,1,good
+17,little,30,paid back,business,8072,unknown,< 1 year,2,male   : single,none,3,car,25,bank,own,3,skilled employee,1,good
+18,moderate,24,paid back,car,12579,little,>= 7 years,4,female : divorced/separated/married,none,2,no property,44,none,for free,1,management/highly qualified employee,1,bad
+19,No Account,24,paid back,radio/television,3430,quite rich,>= 7 years,3,male   : single,none,2,car,31,none,own,1,skilled employee,2,good
+20,No Account,9,default,car,2134,little,1 to <4 years,4,male   : single,none,4,car,48,none,own,3,skilled employee,1,good
+21,little,6,paid back,radio/television,2647,quite rich,1 to <4 years,2,male   : single,none,3,real estate,44,none,rent,1,skilled employee,2,good
+22,little,10,default,car,2241,little,< 1 year,1,male   : single,none,3,real estate,48,none,rent,2,unskilled/resident,2,good
+23,moderate,12,default,car,1804,moderate,< 1 year,3,male   : single,none,4,life insurance,44,none,own,1,skilled employee,1,good
+24,No Account,10,default,furniture/equipment,2069,unknown,1 to <4 years,2,male   : married/widowed,none,1,car,26,none,own,2,skilled employee,1,good
+25,little,6,paid back,furniture/equipment,1374,little,1 to <4 years,1,male   : single,none,2,real estate,36,bank,own,1,unskilled/resident,1,good
+26,No Account,6,paid back,radio/television,426,little,>= 7 years,4,male   : married/widowed,none,4,car,39,none,own,1,unskilled/resident,1,good
+27,rich,12,paid back,radio/television,409,rich,1 to <4 years,3,female : divorced/separated/married,none,3,real estate,42,none,rent,2,skilled employee,1,good
+28,moderate,7,paid back,radio/television,2415,little,1 to <4 years,3,male   : single,guarantor,2,real estate,34,none,own,1,skilled employee,1,good
+29,little,60,delay,business,6836,little,>= 7 years,3,male   : single,none,4,no property,63,none,own,2,skilled employee,1,bad
+30,moderate,18,paid back,business,1913,rich,< 1 year,3,male   : married/widowed,none,3,real estate,36,bank,own,1,skilled employee,1,good
+31,little,24,paid back,furniture/equipment,4020,little,1 to <4 years,2,male   : single,none,2,car,27,stores,own,1,skilled employee,1,good
+32,moderate,18,paid back,car,5866,moderate,1 to <4 years,2,male   : single,none,2,car,30,none,own,2,skilled employee,1,good
+33,No Account,12,default,business,1264,unknown,>= 7 years,4,male   : single,none,4,no property,57,none,rent,1,unskilled/resident,1,good
+34,rich,12,paid back,furniture/equipment,1474,little,< 1 year,4,female : divorced/separated/married,none,1,life insurance,33,bank,own,1,management/highly qualified employee,1,good
+35,moderate,45,default,radio/television,4746,little,< 1 year,4,male   : single,none,2,life insurance,25,none,own,2,unskilled/resident,1,bad
+36,No Account,48,default,education,6110,little,1 to <4 years,1,male   : single,none,3,no property,31,bank,for free,1,skilled employee,1,good
+37,rich,18,paid back,radio/television,2100,little,1 to <4 years,4,male   : single,co-applicant,2,real estate,37,stores,own,1,skilled employee,1,bad
+38,rich,10,paid back,domestic appliances,1225,little,1 to <4 years,2,male   : single,none,2,car,37,none,own,1,skilled employee,1,good
+39,moderate,9,paid back,radio/television,458,little,1 to <4 years,4,male   : single,none,3,real estate,24,none,own,1,skilled employee,1,good
+40,No Account,30,paid back,radio/television,2333,quite rich,>= 7 years,4,male   : single,none,2,car,30,bank,own,1,management/highly qualified employee,1,good
+41,moderate,12,paid back,radio/television,1158,quite rich,1 to <4 years,3,male   : divorced/separated,none,1,car,26,none,own,1,skilled employee,1,good
+42,moderate,18,delay,repairs,6204,little,1 to <4 years,2,male   : single,none,4,real estate,44,none,own,1,unskilled/resident,2,good
+43,little,30,default,car,6187,moderate,4 to <7 years,1,male   : married/widowed,none,4,car,24,none,rent,2,skilled employee,1,good
+44,little,48,default,car,6143,little,>= 7 years,4,female : divorced/separated/married,none,4,no property,58,stores,for free,2,unskilled/resident,1,bad
+45,No Account,11,default,car,1393,little,< 1 year,4,female : divorced/separated/married,none,4,car,35,none,own,2,management/highly qualified employee,1,good
+46,No Account,36,paid back,radio/television,2299,quite rich,>= 7 years,4,male   : single,none,4,car,39,none,own,1,skilled employee,1,good
+47,little,6,paid back,car,1352,quite rich,unemployed,1,female : divorced/separated/married,none,2,life insurance,23,none,rent,1,unemployed/non-resident,1,good
+48,No Account,11,default,car,7228,little,1 to <4 years,1,male   : single,none,4,life insurance,39,none,own,2,unskilled/resident,1,good
+49,No Account,12,paid back,radio/television,2073,moderate,1 to <4 years,4,female : divorced/separated/married,co-applicant,2,real estate,28,none,own,1,skilled employee,1,good
+50,moderate,24,delay,furniture/equipment,2333,unknown,< 1 year,4,male   : single,none,2,life insurance,29,bank,own,1,unskilled/resident,1,good
+51,moderate,27,delay,car,5965,little,>= 7 years,1,male   : single,none,2,car,30,none,own,2,management/highly qualified employee,1,good
+52,No Account,12,paid back,radio/television,1262,little,1 to <4 years,3,male   : single,none,2,car,25,none,own,1,skilled employee,1,good
+53,No Account,18,paid back,car,3378,unknown,1 to <4 years,2,male   : single,none,1,life insurance,31,none,own,1,skilled employee,1,good
+54,moderate,36,delay,car,2225,little,>= 7 years,4,male   : single,none,4,no property,57,bank,for free,2,skilled employee,1,bad
+55,No Account,6,paid back,car,783,unknown,1 to <4 years,1,male   : single,guarantor,2,real estate,26,stores,own,1,unskilled/resident,2,good
+56,moderate,12,paid back,radio/television,6468,unknown,unemployed,2,male   : single,none,1,no property,52,none,own,1,management/highly qualified employee,1,bad
+57,No Account,36,default,radio/television,9566,little,1 to <4 years,2,female : divorced/separated/married,none,2,car,31,stores,own,2,skilled employee,1,good
+58,rich,18,paid back,car,1961,little,>= 7 years,3,female : divorced/separated/married,none,2,car,23,none,own,1,management/highly qualified employee,1,good
+59,little,36,default,furniture/equipment,6229,little,< 1 year,4,female : divorced/separated/married,co-applicant,4,no property,23,none,rent,2,unskilled/resident,1,bad
+60,moderate,9,paid back,business,1391,little,1 to <4 years,2,male   : married/widowed,none,1,real estate,27,bank,own,1,skilled employee,1,good
+61,moderate,15,default,radio/television,1537,unknown,>= 7 years,4,male   : single,guarantor,4,real estate,50,none,own,2,skilled employee,1,good
+62,moderate,36,paid back,business,1953,little,>= 7 years,4,male   : single,none,4,no property,61,none,for free,1,management/highly qualified employee,1,bad
+63,moderate,48,paid back,business,14421,little,1 to <4 years,2,male   : single,none,2,car,25,none,own,1,skilled employee,1,bad
+64,No Account,24,paid back,radio/television,3181,little,< 1 year,4,female : divorced/separated/married,none,4,life insurance,26,none,own,1,skilled employee,1,good
+65,No Account,27,paid back,repairs,5190,unknown,>= 7 years,4,male   : single,none,4,life insurance,48,none,own,4,skilled employee,2,good
+66,No Account,12,paid back,radio/television,2171,little,< 1 year,2,female : divorced/separated/married,none,2,car,29,bank,own,1,skilled employee,1,good
+67,moderate,12,paid back,car,1007,rich,1 to <4 years,4,male   : married/widowed,none,1,real estate,22,none,own,1,skilled employee,1,good
+68,No Account,36,paid back,education,1819,little,1 to <4 years,4,male   : single,none,4,no property,37,stores,for free,1,skilled employee,1,bad
+69,No Account,36,paid back,radio/television,2394,unknown,1 to <4 years,4,female : divorced/separated/married,none,4,car,25,none,own,1,skilled employee,1,good
+70,No Account,36,paid back,car,8133,little,1 to <4 years,1,female : divorced/separated/married,none,2,life insurance,30,bank,own,1,skilled employee,1,good
+71,No Account,7,default,radio/television,730,unknown,>= 7 years,4,male   : single,none,2,life insurance,46,none,rent,2,unskilled/resident,1,good
+72,little,8,default,others,1164,little,>= 7 years,3,male   : single,none,4,no property,51,bank,for free,2,management/highly qualified employee,2,good
+73,moderate,42,default,business,5954,little,4 to <7 years,2,female : divorced/separated/married,none,1,real estate,41,bank,own,2,unskilled/resident,1,good
+74,little,36,paid back,education,1977,unknown,>= 7 years,4,male   : single,none,4,no property,40,none,own,1,management/highly qualified employee,1,bad
+75,little,12,default,car,1526,little,>= 7 years,4,male   : single,none,4,no property,66,none,for free,2,management/highly qualified employee,1,good
+76,little,42,paid back,radio/television,3965,little,< 1 year,4,male   : single,none,3,car,34,none,own,1,skilled employee,1,bad
+77,moderate,11,delay,radio/television,4771,little,4 to <7 years,2,male   : single,none,4,life insurance,51,none,own,1,skilled employee,1,good
+78,No Account,54,paid back,car,9436,unknown,1 to <4 years,2,male   : single,none,2,life insurance,39,none,own,1,unskilled/resident,2,good
+79,moderate,30,paid back,furniture/equipment,3832,little,< 1 year,2,male   : married/widowed,none,1,life insurance,22,none,own,1,skilled employee,1,good
+80,No Account,24,paid back,radio/television,5943,unknown,< 1 year,1,female : divorced/separated/married,none,1,car,44,none,own,2,skilled employee,1,bad
+81,No Account,15,paid back,radio/television,1213,quite rich,>= 7 years,4,male   : single,none,3,life insurance,47,stores,own,1,skilled employee,1,good
+82,No Account,18,paid back,business,1568,moderate,1 to <4 years,3,female : divorced/separated/married,none,4,life insurance,24,none,rent,1,unskilled/resident,1,good
+83,little,24,paid back,others,1755,little,>= 7 years,4,female : divorced/separated/married,guarantor,4,real estate,58,none,own,1,unskilled/resident,1,good
+84,little,10,paid back,radio/television,2315,little,>= 7 years,3,male   : single,none,4,real estate,52,none,own,1,unskilled/resident,1,good
+85,No Account,12,default,business,1412,little,1 to <4 years,4,female : divorced/separated/married,guarantor,2,real estate,29,none,own,2,management/highly qualified employee,1,good
+86,moderate,18,default,furniture/equipment,1295,little,< 1 year,4,female : divorced/separated/married,none,1,life insurance,27,none,own,2,skilled employee,1,good
+87,moderate,36,paid back,education,12612,moderate,1 to <4 years,1,male   : single,none,4,no property,47,none,for free,1,skilled employee,2,bad
+88,little,18,paid back,car,2249,moderate,4 to <7 years,4,male   : single,none,3,car,30,none,own,1,management/highly qualified employee,2,good
+89,little,12,paid back,repairs,1108,little,4 to <7 years,4,male   : single,none,3,real estate,28,none,own,2,skilled employee,1,bad
+90,No Account,12,default,radio/television,618,little,>= 7 years,4,male   : single,none,4,real estate,56,none,own,1,skilled employee,1,good
+91,little,12,default,car,1409,little,>= 7 years,4,male   : single,none,3,real estate,54,none,own,1,skilled employee,1,good
+92,No Account,12,default,radio/television,797,unknown,>= 7 years,4,female : divorced/separated/married,none,3,life insurance,33,bank,own,1,unskilled/resident,2,bad
+93,rich,24,default,furniture/equipment,3617,unknown,>= 7 years,4,male   : single,co-applicant,4,no property,20,none,rent,2,skilled employee,1,good
+94,moderate,12,paid back,car,1318,rich,>= 7 years,4,male   : single,none,4,real estate,54,none,own,1,skilled employee,1,good
+95,moderate,54,paid back,business,15945,little,< 1 year,3,male   : single,none,4,no property,58,none,rent,1,skilled employee,1,bad
+96,No Account,12,default,education,2012,unknown,4 to <7 years,4,female : divorced/separated/married,none,2,car,61,none,own,1,skilled employee,1,good
+97,moderate,18,paid back,business,2622,moderate,1 to <4 years,4,male   : single,none,4,car,34,none,own,1,skilled employee,1,good
+98,moderate,36,default,radio/television,2337,little,>= 7 years,4,male   : single,none,4,real estate,36,none,own,1,skilled employee,1,good
+99,moderate,20,delay,car,7057,unknown,4 to <7 years,3,male   : single,none,4,life insurance,36,bank,rent,2,management/highly qualified employee,2,good
+100,No Account,24,paid back,car,1469,moderate,>= 7 years,4,male   : married/widowed,none,4,real estate,41,none,rent,1,unskilled/resident,1,good
+101,moderate,36,paid back,radio/television,2323,little,4 to <7 years,4,male   : single,none,4,car,24,none,rent,1,skilled employee,1,good
+102,No Account,6,delay,radio/television,932,little,1 to <4 years,3,female : divorced/separated/married,none,2,real estate,24,none,own,1,skilled employee,1,good
+103,moderate,9,default,furniture/equipment,1919,little,4 to <7 years,4,male   : single,none,3,car,35,none,rent,1,skilled employee,1,good
+104,No Account,12,paid back,car,2445,unknown,< 1 year,2,male   : married/widowed,none,4,car,26,none,rent,1,skilled employee,1,good
+105,moderate,24,default,others,11938,little,1 to <4 years,2,male   : single,co-applicant,3,car,39,none,own,2,management/highly qualified employee,2,bad
+106,No Account,18,paid back,car,6458,little,>= 7 years,2,male   : single,none,4,no property,39,bank,own,2,management/highly qualified employee,2,bad
+107,moderate,12,paid back,car,6078,little,4 to <7 years,2,male   : single,none,2,car,32,none,own,1,skilled employee,1,good
+108,little,24,paid back,furniture/equipment,7721,unknown,< 1 year,1,female : divorced/separated/married,none,2,life insurance,30,none,own,1,skilled employee,1,good
+109,moderate,14,paid back,business,1410,quite rich,>= 7 years,1,male   : married/widowed,none,2,real estate,35,none,own,1,skilled employee,1,good
+110,moderate,6,delay,business,1449,moderate,>= 7 years,1,male   : divorced/separated,none,2,car,31,bank,own,2,skilled employee,2,good
+111,rich,15,paid back,education,392,little,< 1 year,4,female : divorced/separated/married,none,4,life insurance,23,none,rent,1,skilled employee,1,good
+112,moderate,18,paid back,car,6260,little,4 to <7 years,3,male   : single,none,3,real estate,28,none,rent,1,unskilled/resident,1,good
+113,No Account,36,default,car,7855,little,1 to <4 years,4,female : divorced/separated/married,none,2,real estate,25,stores,own,2,skilled employee,1,bad
+114,little,12,paid back,radio/television,1680,quite rich,>= 7 years,3,male   : married/widowed,none,1,real estate,35,none,own,1,skilled employee,1,good
+115,No Account,48,default,radio/television,3578,unknown,>= 7 years,4,male   : single,none,1,real estate,47,none,own,1,skilled employee,1,good
+116,little,42,paid back,radio/television,7174,unknown,4 to <7 years,4,female : divorced/separated/married,none,3,car,30,none,own,1,management/highly qualified employee,1,bad
+117,little,10,default,furniture/equipment,2132,unknown,< 1 year,2,female : divorced/separated/married,co-applicant,3,real estate,27,none,rent,2,skilled employee,1,good
+118,little,33,default,furniture/equipment,4281,quite rich,1 to <4 years,1,female : divorced/separated/married,none,4,car,23,none,own,2,skilled employee,1,bad
+119,moderate,12,default,car,2366,quite rich,4 to <7 years,3,male   : divorced/separated,none,3,car,36,none,own,1,management/highly qualified employee,1,good
+120,little,21,paid back,radio/television,1835,little,1 to <4 years,3,female : divorced/separated/married,none,2,real estate,25,none,own,2,skilled employee,1,bad
+121,No Account,24,default,car,3868,little,>= 7 years,4,female : divorced/separated/married,none,2,car,41,none,rent,2,management/highly qualified employee,1,good
+122,No Account,12,paid back,furniture/equipment,1768,little,1 to <4 years,3,male   : single,none,2,real estate,24,none,rent,1,unskilled/resident,1,good
+123,rich,10,default,car,781,little,>= 7 years,4,male   : single,none,4,no property,63,none,for free,2,skilled employee,1,good
+124,moderate,18,paid back,furniture/equipment,1924,unknown,< 1 year,4,female : divorced/separated/married,none,3,real estate,27,none,rent,1,skilled employee,1,bad
+125,little,12,default,car,2121,little,1 to <4 years,4,male   : single,none,2,life insurance,30,none,own,2,skilled employee,1,good
+126,little,12,paid back,radio/television,701,little,1 to <4 years,4,male   : married/widowed,none,2,real estate,40,none,own,1,unskilled/resident,1,good
+127,moderate,12,paid back,repairs,639,little,1 to <4 years,4,male   : single,none,2,car,30,none,own,1,skilled employee,1,bad
+128,moderate,12,default,car,1860,little,unemployed,4,male   : single,none,2,car,34,none,own,2,management/highly qualified employee,1,good
+129,little,12,default,car,3499,little,1 to <4 years,3,female : divorced/separated/married,co-applicant,2,real estate,29,none,own,2,skilled employee,1,bad
+130,moderate,48,paid back,car,8487,unknown,4 to <7 years,1,female : divorced/separated/married,none,2,car,24,none,own,1,skilled employee,1,good
+131,little,36,delay,education,6887,little,1 to <4 years,4,male   : single,none,3,life insurance,29,stores,own,1,skilled employee,1,bad
+132,No Account,15,paid back,furniture/equipment,2708,little,< 1 year,2,male   : single,none,3,life insurance,27,bank,own,2,unskilled/resident,1,good
+133,No Account,18,paid back,furniture/equipment,1984,little,1 to <4 years,4,male   : single,none,4,no property,47,bank,for free,2,skilled employee,1,good
+134,No Account,60,paid back,radio/television,10144,moderate,4 to <7 years,2,female : divorced/separated/married,none,4,real estate,21,none,own,1,skilled employee,1,good
+135,No Account,12,default,radio/television,1240,unknown,>= 7 years,4,female : divorced/separated/married,none,2,real estate,38,none,own,2,skilled employee,1,good
+136,No Account,27,delay,car,8613,rich,1 to <4 years,2,male   : single,none,2,car,27,none,own,2,skilled employee,1,good
+137,moderate,12,paid back,radio/television,766,quite rich,1 to <4 years,4,male   : single,none,3,real estate,66,none,own,1,unskilled/resident,1,bad
+138,moderate,15,default,radio/television,2728,unknown,4 to <7 years,4,male   : single,guarantor,2,real estate,35,bank,own,3,skilled employee,1,good
+139,rich,12,paid back,radio/television,1881,little,1 to <4 years,2,female : divorced/separated/married,none,2,car,44,none,rent,1,unskilled/resident,1,good
+140,rich,6,paid back,car,709,rich,< 1 year,2,male   : married/widowed,none,2,real estate,27,none,own,1,unemployed/non-resident,1,good
+141,moderate,36,paid back,radio/television,4795,little,< 1 year,4,female : divorced/separated/married,none,1,no property,30,none,own,1,management/highly qualified employee,1,good
+142,little,27,paid back,radio/television,3416,little,1 to <4 years,3,male   : single,none,2,car,27,none,own,1,management/highly qualified employee,1,good
+143,little,18,paid back,furniture/equipment,2462,little,1 to <4 years,2,male   : single,none,2,car,22,none,own,1,skilled employee,1,bad
+144,No Account,21,default,furniture/equipment,2288,little,< 1 year,4,female : divorced/separated/married,none,4,life insurance,23,none,own,1,skilled employee,1,good
+145,moderate,48,paid back,business,3566,moderate,4 to <7 years,4,male   : single,none,2,car,30,none,own,1,skilled employee,1,good
+146,little,6,default,car,860,little,>= 7 years,1,female : divorced/separated/married,none,4,no property,39,none,own,2,skilled employee,1,good
+147,No Account,12,default,car,682,moderate,4 to <7 years,4,female : divorced/separated/married,none,3,car,51,none,own,2,skilled employee,1,good
+148,little,36,default,furniture/equipment,5371,little,1 to <4 years,3,male   : single,guarantor,2,life insurance,28,none,own,2,skilled employee,1,good
+149,No Account,18,default,radio/television,1582,rich,>= 7 years,4,male   : single,none,4,car,46,none,own,2,skilled employee,1,good
+150,No Account,6,paid back,radio/television,1346,moderate,>= 7 years,2,male   : single,none,4,no property,42,bank,for free,1,skilled employee,2,good
+151,No Account,10,paid back,radio/television,1924,little,1 to <4 years,1,male   : single,none,4,life insurance,38,none,own,1,skilled employee,1,good
+152,rich,36,paid back,radio/television,5848,little,1 to <4 years,4,male   : single,none,1,car,24,none,own,1,skilled employee,1,good
+153,moderate,24,default,car,7758,rich,>= 7 years,2,female : divorced/separated/married,none,4,no property,29,none,rent,1,skilled employee,1,good
+154,moderate,24,delay,business,6967,moderate,4 to <7 years,4,male   : single,none,4,car,36,none,rent,1,management/highly qualified employee,1,good
+155,little,12,paid back,furniture/equipment,1282,little,1 to <4 years,2,female : divorced/separated/married,none,4,car,20,none,rent,1,skilled employee,1,bad
+156,little,9,default,repairs,1288,moderate,>= 7 years,3,male   : single,guarantor,4,real estate,48,none,own,2,skilled employee,2,good
+157,little,12,paid back,retraining,339,little,>= 7 years,4,male   : married/widowed,none,1,car,45,bank,own,1,unskilled/resident,1,good
+158,moderate,24,paid back,car,3512,moderate,4 to <7 years,2,male   : single,none,3,car,38,bank,own,2,skilled employee,1,good
+159,No Account,6,default,radio/television,1898,unknown,1 to <4 years,1,male   : single,none,2,real estate,34,none,own,2,unskilled/resident,2,good
+160,No Account,24,default,radio/television,2872,moderate,>= 7 years,3,male   : single,none,4,real estate,36,none,own,1,skilled employee,2,good
+161,No Account,18,default,car,1055,little,< 1 year,4,female : divorced/separated/married,none,1,life insurance,30,none,own,2,skilled employee,1,good
+162,No Account,15,paid back,domestic appliances,1262,quite rich,4 to <7 years,4,male   : single,none,3,life insurance,36,none,own,2,skilled employee,1,good
+163,moderate,10,paid back,car,7308,little,unemployed,2,male   : single,none,4,no property,70,bank,for free,1,management/highly qualified employee,1,good
+164,No Account,36,paid back,car,909,quite rich,>= 7 years,4,male   : single,none,4,life insurance,36,none,own,1,skilled employee,1,good
+165,No Account,6,paid back,furniture/equipment,2978,quite rich,1 to <4 years,1,male   : single,none,2,car,32,none,own,1,skilled employee,1,good
+166,little,18,paid back,furniture/equipment,1131,little,unemployed,4,female : divorced/separated/married,none,2,car,33,none,own,1,skilled employee,1,bad
+167,moderate,11,paid back,furniture/equipment,1577,rich,< 1 year,4,female : divorced/separated/married,none,1,real estate,20,none,own,1,skilled employee,1,good
+168,No Account,24,paid back,furniture/equipment,3972,little,4 to <7 years,2,female : divorced/separated/married,none,4,life insurance,25,none,rent,1,skilled employee,1,good
+169,moderate,24,default,business,1935,little,>= 7 years,4,male   : divorced/separated,none,4,real estate,31,none,own,2,skilled employee,1,bad
+170,little,15,paid back,car,950,little,>= 7 years,4,male   : single,none,3,car,33,none,rent,2,skilled employee,2,bad
+171,No Account,12,paid back,furniture/equipment,763,little,1 to <4 years,4,female : divorced/separated/married,none,1,real estate,26,none,own,1,skilled employee,1,good
+172,moderate,24,delay,furniture/equipment,2064,little,unemployed,3,female : divorced/separated/married,none,2,life insurance,34,none,own,1,management/highly qualified employee,1,bad
+173,moderate,8,paid back,radio/television,1414,little,1 to <4 years,4,male   : single,guarantor,2,real estate,33,none,own,1,skilled employee,1,good
+174,little,21,delay,education,3414,little,< 1 year,2,male   : single,none,1,life insurance,26,none,own,2,skilled employee,1,bad
+175,No Account,30,paid back,car,7485,unknown,unemployed,4,female : divorced/separated/married,none,1,real estate,53,bank,own,1,management/highly qualified employee,1,bad
+176,little,12,paid back,furniture/equipment,2577,little,1 to <4 years,2,male   : divorced/separated,none,1,car,42,none,own,1,skilled employee,1,good
+177,little,6,default,radio/television,338,quite rich,>= 7 years,4,male   : single,none,4,car,52,none,own,2,skilled employee,1,good
+178,No Account,12,paid back,radio/television,1963,little,4 to <7 years,4,male   : single,none,2,car,31,none,rent,2,management/highly qualified employee,2,good
+179,little,21,default,car,571,little,>= 7 years,4,male   : single,none,4,real estate,65,none,own,2,skilled employee,1,good
+180,No Account,36,delay,business,9572,little,< 1 year,1,male   : divorced/separated,none,1,car,28,none,own,2,skilled employee,1,bad
+181,moderate,36,delay,business,4455,little,1 to <4 years,2,male   : divorced/separated,none,2,real estate,30,stores,own,2,management/highly qualified employee,1,bad
+182,little,21,paid back,car,1647,unknown,1 to <4 years,4,male   : single,none,2,life insurance,40,none,own,2,unskilled/resident,2,bad
+183,No Account,24,default,furniture/equipment,3777,rich,1 to <4 years,4,male   : single,none,4,real estate,50,none,own,1,skilled employee,1,good
+184,moderate,18,default,car,884,little,>= 7 years,4,male   : single,none,4,car,36,bank,own,1,skilled employee,2,bad
+185,No Account,15,default,radio/television,1360,little,1 to <4 years,4,male   : single,none,2,life insurance,31,none,own,2,skilled employee,1,good
+186,moderate,9,paid back,car,5129,little,>= 7 years,2,female : divorced/separated/married,none,4,no property,74,bank,for free,1,management/highly qualified employee,2,bad
+187,moderate,16,default,car,1175,little,unemployed,2,male   : single,none,3,car,68,none,for free,3,unemployed/non-resident,1,good
+188,little,12,paid back,radio/television,674,moderate,4 to <7 years,4,male   : married/widowed,none,1,life insurance,20,none,own,1,skilled employee,1,bad
+189,moderate,18,paid back,furniture/equipment,3244,little,1 to <4 years,1,female : divorced/separated/married,none,4,car,33,bank,own,2,skilled employee,1,good
+190,No Account,24,paid back,business,4591,rich,1 to <4 years,2,male   : single,none,3,life insurance,54,none,own,3,management/highly qualified employee,1,bad
+191,moderate,48,paid back,business,3844,moderate,4 to <7 years,4,male   : single,none,4,no property,34,none,for free,1,unskilled/resident,2,bad
+192,moderate,27,paid back,business,3915,little,1 to <4 years,4,male   : single,none,2,car,36,none,own,1,skilled employee,2,bad
+193,No Account,6,paid back,radio/television,2108,little,4 to <7 years,2,male   : married/widowed,none,2,real estate,29,none,rent,1,skilled employee,1,good
+194,moderate,45,paid back,radio/television,3031,moderate,1 to <4 years,4,male   : single,guarantor,4,life insurance,21,none,rent,1,skilled employee,1,bad
+195,moderate,9,default,education,1501,little,>= 7 years,2,female : divorced/separated/married,none,3,car,34,none,own,2,management/highly qualified employee,1,bad
+196,No Account,6,default,radio/television,1382,little,1 to <4 years,1,female : divorced/separated/married,none,1,car,28,none,own,2,skilled employee,1,good
+197,moderate,12,paid back,furniture/equipment,951,moderate,< 1 year,4,female : divorced/separated/married,none,4,car,27,bank,rent,4,skilled employee,1,bad
+198,moderate,24,paid back,car,2760,unknown,>= 7 years,4,male   : single,none,4,no property,36,bank,for free,1,skilled employee,1,good
+199,moderate,18,delay,furniture/equipment,4297,little,>= 7 years,4,male   : divorced/separated,none,3,no property,40,none,own,1,management/highly qualified employee,1,bad
+200,No Account,9,default,education,936,quite rich,>= 7 years,4,male   : single,none,2,car,52,none,own,2,skilled employee,1,good
+201,little,12,paid back,car,1168,little,1 to <4 years,4,male   : married/widowed,none,3,real estate,27,none,own,1,unskilled/resident,1,good
+202,No Account,27,delay,business,5117,little,4 to <7 years,3,male   : single,none,4,car,26,none,own,2,skilled employee,1,good
+203,little,12,paid back,retraining,902,little,4 to <7 years,4,male   : married/widowed,none,4,life insurance,21,none,rent,1,skilled employee,1,bad
+204,No Account,12,default,car,1495,little,>= 7 years,4,male   : single,none,1,real estate,38,none,own,2,unskilled/resident,2,good
+205,little,30,default,car,10623,little,>= 7 years,3,male   : single,none,4,no property,38,none,for free,3,management/highly qualified employee,2,good
+206,No Account,12,default,furniture/equipment,1935,little,>= 7 years,4,male   : single,none,4,real estate,43,none,own,3,skilled employee,1,good
+207,moderate,12,default,domestic appliances,1424,little,4 to <7 years,4,male   : single,none,3,life insurance,26,none,own,1,skilled employee,1,good
+208,little,24,paid back,business,6568,little,1 to <4 years,2,male   : married/widowed,none,2,car,21,stores,own,1,unskilled/resident,1,good
+209,No Account,12,paid back,car,1413,rich,4 to <7 years,3,male   : single,none,2,life insurance,55,none,own,1,skilled employee,1,good
+210,No Account,9,default,radio/television,3074,unknown,1 to <4 years,1,male   : single,none,2,real estate,33,none,own,2,skilled employee,2,good
+211,No Account,36,paid back,radio/television,3835,unknown,>= 7 years,2,female : divorced/separated/married,none,4,real estate,45,none,own,1,unskilled/resident,1,good
+212,little,27,paid back,business,5293,little,unemployed,2,male   : single,none,4,life insurance,50,stores,own,2,skilled employee,1,bad
+213,rich,30,delay,business,1908,little,>= 7 years,4,male   : single,none,4,real estate,66,none,own,1,management/highly qualified employee,1,bad
+214,No Account,36,default,radio/television,3342,unknown,>= 7 years,4,male   : single,none,2,car,51,none,own,1,skilled employee,1,good
+215,moderate,6,default,retraining,932,unknown,4 to <7 years,1,female : divorced/separated/married,none,3,life insurance,39,none,own,2,unskilled/resident,1,good
+216,little,18,paid back,business,3104,little,4 to <7 years,3,male   : single,none,1,life insurance,31,bank,own,1,skilled employee,1,good
+217,rich,36,paid back,radio/television,3913,little,1 to <4 years,2,male   : single,none,2,real estate,23,none,own,1,skilled employee,1,good
+218,little,24,paid back,furniture/equipment,3021,little,1 to <4 years,2,male   : divorced/separated,none,2,real estate,24,none,rent,1,unskilled/resident,1,good
+219,No Account,10,paid back,car,1364,little,1 to <4 years,2,female : divorced/separated/married,none,4,car,64,none,own,1,skilled employee,1,good
+220,moderate,12,paid back,radio/television,625,little,< 1 year,4,male   : married/widowed,guarantor,1,real estate,26,bank,own,1,unskilled/resident,1,good
+221,little,12,paid back,education,1200,unknown,1 to <4 years,4,female : divorced/separated/married,none,4,life insurance,23,bank,rent,1,skilled employee,1,good
+222,No Account,12,paid back,radio/television,707,little,1 to <4 years,4,male   : single,none,2,real estate,30,bank,own,2,skilled employee,1,good
+223,No Account,24,delay,business,2978,unknown,1 to <4 years,4,male   : single,none,4,real estate,32,none,own,2,skilled employee,2,good
+224,No Account,15,paid back,car,4657,little,1 to <4 years,3,male   : single,none,2,car,30,none,own,1,skilled employee,1,good
+225,No Account,36,paid back,repairs,2613,little,1 to <4 years,4,male   : single,none,2,car,27,none,own,2,skilled employee,1,good
+226,moderate,48,paid back,radio/television,10961,rich,4 to <7 years,1,male   : single,co-applicant,2,no property,27,bank,own,2,skilled employee,1,bad
+227,little,12,paid back,furniture/equipment,7865,little,>= 7 years,4,male   : single,none,4,no property,53,none,for free,1,management/highly qualified employee,1,bad
+228,No Account,9,paid back,radio/television,1478,little,4 to <7 years,4,male   : single,none,2,car,22,none,own,1,skilled employee,1,bad
+229,little,24,paid back,furniture/equipment,3149,little,< 1 year,4,male   : single,none,1,no property,22,bank,for free,1,skilled employee,1,good
+230,rich,36,paid back,radio/television,4210,little,1 to <4 years,4,male   : single,none,2,car,26,none,own,1,skilled employee,1,bad
+231,No Account,9,paid back,car,2507,quite rich,>= 7 years,2,male   : single,none,4,no property,51,none,for free,1,unskilled/resident,1,good
+232,No Account,12,paid back,radio/television,2141,moderate,4 to <7 years,3,male   : single,none,1,no property,35,none,own,1,skilled employee,1,good
+233,moderate,18,paid back,radio/television,866,little,1 to <4 years,4,male   : married/widowed,guarantor,2,real estate,25,none,own,1,unskilled/resident,1,good
+234,No Account,4,default,radio/television,1544,little,4 to <7 years,2,male   : single,none,1,real estate,42,none,own,3,unskilled/resident,2,good
+235,little,24,paid back,radio/television,1823,little,unemployed,4,male   : single,none,2,car,30,stores,own,1,management/highly qualified employee,2,bad
+236,moderate,6,paid back,car,14555,unknown,unemployed,1,male   : single,none,2,life insurance,23,none,own,1,unemployed/non-resident,1,bad
+237,moderate,21,paid back,business,2767,moderate,>= 7 years,4,male   : divorced/separated,none,2,car,61,bank,rent,2,unskilled/resident,1,bad
+238,No Account,12,default,radio/television,1291,little,1 to <4 years,4,female : divorced/separated/married,none,2,life insurance,35,none,own,2,skilled employee,1,good
+239,little,30,paid back,radio/television,2522,little,>= 7 years,1,male   : single,guarantor,3,life insurance,39,none,own,1,skilled employee,2,good
+240,little,24,paid back,car,915,unknown,>= 7 years,4,female : divorced/separated/married,none,2,car,29,bank,own,1,skilled employee,1,bad
+241,No Account,6,paid back,radio/television,1595,little,4 to <7 years,3,male   : single,none,2,life insurance,51,none,own,1,skilled employee,2,good
+242,little,48,paid back,car,4605,little,>= 7 years,3,male   : single,none,4,no property,24,none,for free,2,skilled employee,2,bad
+243,No Account,12,default,business,1185,little,1 to <4 years,3,female : divorced/separated/married,none,2,real estate,27,none,own,2,skilled employee,1,good
+244,No Account,12,paid back,retraining,3447,quite rich,1 to <4 years,4,female : divorced/separated/married,none,3,real estate,35,none,own,1,unskilled/resident,2,good
+245,No Account,24,paid back,business,1258,little,4 to <7 years,4,male   : single,none,1,real estate,25,none,own,1,skilled employee,1,good
+246,No Account,12,default,radio/television,717,little,>= 7 years,4,male   : single,none,4,real estate,52,none,own,3,skilled employee,1,good
+247,No Account,6,paid back,car,1204,moderate,1 to <4 years,4,male   : single,none,1,no property,35,bank,rent,1,skilled employee,1,good
+248,rich,24,paid back,furniture/equipment,1925,little,1 to <4 years,2,male   : single,none,2,real estate,26,none,own,1,skilled employee,1,good
+249,No Account,18,paid back,radio/television,433,little,unemployed,3,female : divorced/separated/married,co-applicant,4,real estate,22,none,rent,1,skilled employee,1,bad
+250,little,6,default,car,666,rich,4 to <7 years,3,female : divorced/separated/married,none,4,real estate,39,none,own,2,unskilled/resident,1,good
+251,rich,12,paid back,furniture/equipment,2251,little,1 to <4 years,1,female : divorced/separated/married,none,2,car,46,none,own,1,unskilled/resident,1,good
+252,moderate,30,paid back,car,2150,little,1 to <4 years,4,female : divorced/separated/married,guarantor,2,no property,24,bank,own,1,skilled employee,1,bad
+253,No Account,24,delay,furniture/equipment,4151,moderate,1 to <4 years,2,male   : single,none,3,life insurance,35,none,own,2,skilled employee,1,good
+254,moderate,9,paid back,furniture/equipment,2030,unknown,4 to <7 years,2,male   : single,none,1,car,24,none,own,1,skilled employee,1,good
+255,moderate,60,delay,radio/television,7418,unknown,1 to <4 years,1,male   : single,none,1,real estate,27,none,own,1,unskilled/resident,1,good
+256,No Account,24,default,radio/television,2684,little,1 to <4 years,4,male   : single,none,2,real estate,35,none,own,2,unskilled/resident,1,good
+257,little,12,paid back,radio/television,2149,little,1 to <4 years,4,male   : divorced/separated,none,1,no property,29,none,for free,1,skilled employee,1,bad
+258,No Account,15,paid back,car,3812,moderate,< 1 year,1,female : divorced/separated/married,none,4,car,23,none,own,1,skilled employee,1,good
+259,No Account,11,default,radio/television,1154,moderate,unemployed,4,female : divorced/separated/married,none,4,real estate,57,none,own,3,unskilled/resident,1,good
+260,little,12,paid back,furniture/equipment,1657,little,1 to <4 years,2,male   : single,none,2,real estate,27,none,own,1,skilled employee,1,good
+261,little,24,paid back,radio/television,1603,little,>= 7 years,4,female : divorced/separated/married,none,4,car,55,none,own,1,skilled employee,1,good
+262,little,18,default,car,5302,little,>= 7 years,2,male   : single,none,4,no property,36,none,for free,3,management/highly qualified employee,1,good
+263,No Account,12,default,education,2748,little,>= 7 years,2,female : divorced/separated/married,none,4,no property,57,bank,for free,3,unskilled/resident,1,good
+264,No Account,10,default,car,1231,little,>= 7 years,3,male   : single,none,4,real estate,32,none,own,2,unskilled/resident,2,good
+265,moderate,15,paid back,radio/television,802,little,>= 7 years,4,male   : single,none,3,car,37,none,own,1,skilled employee,2,bad
+266,No Account,36,default,business,6304,unknown,>= 7 years,4,male   : single,none,4,real estate,36,none,own,2,skilled employee,1,good
+267,No Account,24,paid back,radio/television,1533,little,< 1 year,4,female : divorced/separated/married,none,3,car,38,stores,own,1,skilled employee,1,good
+268,little,14,paid back,car,8978,little,>= 7 years,1,male   : divorced/separated,none,4,life insurance,45,none,own,1,management/highly qualified employee,1,bad
+269,No Account,24,paid back,radio/television,999,unknown,>= 7 years,4,male   : single,none,2,car,25,none,own,2,skilled employee,1,good
+270,No Account,18,paid back,car,2662,unknown,4 to <7 years,4,male   : single,none,3,life insurance,32,none,own,1,skilled employee,1,good
+271,No Account,12,default,furniture/equipment,1402,quite rich,4 to <7 years,3,female : divorced/separated/married,none,4,car,37,none,rent,1,skilled employee,1,good
+272,moderate,48,paid back,car,12169,unknown,unemployed,4,male   : single,co-applicant,4,no property,36,none,for free,1,management/highly qualified employee,1,good
+273,moderate,48,paid back,radio/television,3060,little,4 to <7 years,4,male   : single,none,4,real estate,28,none,own,2,skilled employee,1,bad
+274,little,30,paid back,repairs,11998,little,< 1 year,1,male   : divorced/separated,none,1,no property,34,none,own,1,unskilled/resident,1,bad
+275,No Account,9,paid back,radio/television,2697,little,1 to <4 years,1,male   : single,none,2,real estate,32,none,own,1,skilled employee,2,good
+276,No Account,18,default,radio/television,2404,little,1 to <4 years,2,female : divorced/separated/married,none,2,car,26,none,own,2,skilled employee,1,good
+277,little,12,paid back,furniture/equipment,1262,unknown,>= 7 years,2,male   : divorced/separated,none,4,life insurance,49,none,own,1,unskilled/resident,1,good
+278,No Account,6,paid back,furniture/equipment,4611,little,< 1 year,1,female : divorced/separated/married,none,4,life insurance,32,none,own,1,skilled employee,1,bad
+279,No Account,24,paid back,radio/television,1901,moderate,1 to <4 years,4,male   : single,none,4,car,29,none,rent,1,management/highly qualified employee,1,good
+280,No Account,15,default,car,3368,rich,>= 7 years,3,male   : single,none,4,no property,23,none,rent,2,skilled employee,1,good
+281,No Account,12,paid back,furniture/equipment,1574,little,1 to <4 years,4,male   : single,none,2,real estate,50,none,own,1,skilled employee,1,good
+282,rich,18,paid back,radio/television,1445,unknown,4 to <7 years,4,male   : single,none,4,car,49,bank,own,1,unskilled/resident,1,good
+283,No Account,15,default,furniture/equipment,1520,unknown,>= 7 years,4,male   : single,none,4,life insurance,63,none,own,1,skilled employee,1,good
+284,moderate,24,default,car,3878,moderate,< 1 year,4,male   : divorced/separated,none,2,car,37,none,own,1,skilled employee,1,good
+285,little,47,paid back,car,10722,little,< 1 year,1,female : divorced/separated/married,none,1,real estate,35,none,own,1,unskilled/resident,1,good
+286,little,48,paid back,car,4788,little,4 to <7 years,4,male   : single,none,3,life insurance,26,none,own,1,skilled employee,2,good
+287,moderate,48,delay,others,7582,moderate,unemployed,2,male   : single,none,4,no property,31,none,for free,1,management/highly qualified employee,1,good
+288,moderate,12,paid back,radio/television,1092,little,1 to <4 years,4,female : divorced/separated/married,guarantor,4,real estate,49,none,own,2,skilled employee,1,good
+289,little,24,delay,radio/television,1024,little,< 1 year,4,male   : married/widowed,none,4,real estate,48,stores,own,1,skilled employee,1,bad
+290,No Account,12,paid back,business,1076,little,1 to <4 years,2,male   : married/widowed,none,2,real estate,26,none,own,1,skilled employee,1,good
+291,moderate,36,paid back,car,9398,little,< 1 year,1,male   : married/widowed,none,4,car,28,none,rent,1,management/highly qualified employee,1,bad
+292,little,24,default,car,6419,little,>= 7 years,2,female : divorced/separated/married,none,4,no property,44,none,for free,2,management/highly qualified employee,2,good
+293,rich,42,default,car,4796,little,>= 7 years,4,male   : single,none,4,no property,56,none,for free,1,skilled employee,1,good
+294,No Account,48,default,business,7629,unknown,>= 7 years,4,male   : divorced/separated,none,2,car,46,bank,own,2,management/highly qualified employee,2,good
+295,moderate,48,paid back,furniture/equipment,9960,little,< 1 year,1,female : divorced/separated/married,none,2,car,26,none,own,1,skilled employee,1,bad
+296,No Account,12,paid back,car,4675,unknown,< 1 year,1,female : divorced/separated/married,none,4,car,20,none,rent,1,skilled employee,1,good
+297,No Account,10,paid back,car,1287,unknown,>= 7 years,4,male   : single,co-applicant,2,life insurance,45,none,own,1,unskilled/resident,1,good
+298,No Account,18,paid back,furniture/equipment,2515,little,1 to <4 years,3,male   : single,none,4,real estate,43,none,own,1,skilled employee,1,good
+299,moderate,21,default,furniture/equipment,2745,rich,4 to <7 years,3,male   : single,none,2,car,32,none,own,2,skilled employee,1,good
+300,No Account,6,paid back,car,672,little,unemployed,1,female : divorced/separated/married,none,4,real estate,54,none,own,1,unemployed/non-resident,1,good
+301,moderate,36,paid back,radio/television,3804,little,1 to <4 years,4,female : divorced/separated/married,none,1,car,42,none,own,1,skilled employee,1,bad
+302,rich,24,default,car,1344,unknown,4 to <7 years,4,male   : single,none,2,real estate,37,bank,own,2,unskilled/resident,2,bad
+303,little,10,default,car,1038,little,4 to <7 years,4,male   : single,co-applicant,3,life insurance,49,none,own,2,skilled employee,1,good
+304,No Account,48,default,car,10127,quite rich,1 to <4 years,2,male   : single,none,2,no property,44,bank,for free,1,skilled employee,1,bad
+305,No Account,6,paid back,furniture/equipment,1543,rich,1 to <4 years,4,male   : divorced/separated,none,2,real estate,33,none,own,1,skilled employee,1,good
+306,No Account,30,paid back,car,4811,unknown,4 to <7 years,2,female : divorced/separated/married,none,4,life insurance,24,stores,rent,1,unskilled/resident,1,good
+307,little,12,paid back,radio/television,727,moderate,< 1 year,4,male   : married/widowed,none,3,no property,33,none,own,1,unskilled/resident,1,bad
+308,moderate,8,paid back,furniture/equipment,1237,little,1 to <4 years,3,female : divorced/separated/married,none,4,real estate,24,none,own,1,skilled employee,1,bad
+309,moderate,9,paid back,car,276,little,1 to <4 years,4,male   : married/widowed,none,4,real estate,22,none,rent,1,unskilled/resident,1,good
+310,moderate,48,paid back,others,5381,unknown,unemployed,3,male   : single,none,4,no property,40,bank,for free,1,unemployed/non-resident,1,good
+311,No Account,24,paid back,furniture/equipment,5511,moderate,1 to <4 years,4,male   : single,none,1,car,25,stores,own,1,skilled employee,1,good
+312,rich,24,paid back,furniture/equipment,3749,little,< 1 year,2,female : divorced/separated/married,none,4,car,26,none,own,1,skilled employee,1,good
+313,moderate,12,paid back,car,685,little,4 to <7 years,2,male   : married/widowed,none,3,car,25,bank,own,1,unskilled/resident,1,bad
+314,rich,4,paid back,car,1494,unknown,< 1 year,1,male   : single,none,2,real estate,29,none,own,1,unskilled/resident,2,good
+315,little,36,paid back,furniture/equipment,2746,little,>= 7 years,4,male   : single,none,4,car,31,bank,own,1,skilled employee,1,bad
+316,little,12,paid back,furniture/equipment,708,little,1 to <4 years,2,male   : single,guarantor,3,life insurance,38,none,own,1,unskilled/resident,2,good
+317,moderate,24,paid back,furniture/equipment,4351,unknown,1 to <4 years,1,female : divorced/separated/married,none,4,life insurance,48,none,own,1,unskilled/resident,1,good
+318,No Account,12,default,education,701,little,1 to <4 years,4,male   : single,none,2,car,32,none,own,2,skilled employee,1,good
+319,little,15,delay,furniture/equipment,3643,little,>= 7 years,1,female : divorced/separated/married,none,4,life insurance,27,none,own,2,unskilled/resident,1,good
+320,moderate,30,default,car,4249,little,unemployed,4,male   : married/widowed,none,2,car,28,none,own,2,management/highly qualified employee,1,bad
+321,little,24,paid back,radio/television,1938,little,< 1 year,4,male   : divorced/separated,none,3,life insurance,32,none,own,1,skilled employee,1,bad
+322,little,24,paid back,car,2910,little,4 to <7 years,2,male   : single,none,1,no property,34,none,for free,1,management/highly qualified employee,1,good
+323,little,18,paid back,furniture/equipment,2659,rich,1 to <4 years,4,male   : single,none,2,car,28,none,own,1,skilled employee,1,good
+324,No Account,18,default,car,1028,little,1 to <4 years,4,female : divorced/separated/married,none,3,real estate,36,none,own,2,skilled employee,1,good
+325,little,8,default,car,3398,little,4 to <7 years,1,male   : single,none,4,real estate,39,none,own,2,unskilled/resident,1,good
+326,No Account,12,default,furniture/equipment,5801,unknown,>= 7 years,2,male   : single,none,4,life insurance,49,none,rent,1,skilled employee,1,good
+327,No Account,24,paid back,car,1525,rich,4 to <7 years,4,female : divorced/separated/married,none,3,car,34,none,own,1,skilled employee,2,good
+328,rich,36,paid back,radio/television,4473,little,>= 7 years,4,male   : single,none,2,car,31,none,own,1,skilled employee,1,good
+329,moderate,6,paid back,radio/television,1068,little,>= 7 years,4,male   : single,none,4,car,28,none,own,1,skilled employee,2,good
+330,little,24,default,car,6615,little,unemployed,2,male   : single,none,4,no property,75,none,for free,2,management/highly qualified employee,1,good
+331,No Account,18,default,education,1864,moderate,1 to <4 years,4,female : divorced/separated/married,none,2,real estate,30,none,own,2,skilled employee,1,bad
+332,moderate,60,paid back,car,7408,moderate,< 1 year,4,female : divorced/separated/married,none,2,life insurance,24,none,own,1,management/highly qualified employee,1,bad
+333,No Account,48,default,car,11590,moderate,1 to <4 years,2,female : divorced/separated/married,none,4,car,24,bank,rent,2,unskilled/resident,1,bad
+334,little,24,paid back,furniture/equipment,4110,little,>= 7 years,3,male   : single,none,4,no property,23,bank,rent,2,skilled employee,2,bad
+335,little,6,default,furniture/equipment,3384,little,1 to <4 years,1,male   : divorced/separated,none,4,real estate,44,none,rent,1,management/highly qualified employee,1,bad
+336,moderate,13,paid back,radio/television,2101,little,< 1 year,2,female : divorced/separated/married,guarantor,4,life insurance,23,none,own,1,unskilled/resident,1,good
+337,little,15,paid back,domestic appliances,1275,unknown,1 to <4 years,4,female : divorced/separated/married,none,2,car,24,none,rent,1,skilled employee,1,bad
+338,little,24,paid back,furniture/equipment,4169,little,1 to <4 years,4,male   : single,none,4,life insurance,28,none,own,1,skilled employee,1,good
+339,moderate,10,paid back,furniture/equipment,1521,little,1 to <4 years,4,male   : divorced/separated,none,2,car,31,none,own,1,unskilled/resident,1,good
+340,moderate,24,default,education,5743,little,< 1 year,2,female : divorced/separated/married,none,4,no property,24,none,for free,2,skilled employee,1,good
+341,little,21,paid back,furniture/equipment,3599,little,4 to <7 years,1,female : divorced/separated/married,none,4,car,26,none,rent,1,unskilled/resident,1,good
+342,moderate,18,paid back,radio/television,3213,quite rich,< 1 year,1,male   : married/widowed,none,3,real estate,25,none,rent,1,skilled employee,1,good
+343,moderate,18,paid back,business,4439,little,>= 7 years,1,male   : single,co-applicant,1,real estate,33,bank,own,1,management/highly qualified employee,1,good
+344,rich,10,paid back,car,3949,little,< 1 year,1,male   : single,guarantor,1,life insurance,37,none,own,1,unskilled/resident,2,good
+345,No Account,15,default,radio/television,1459,little,1 to <4 years,4,female : divorced/separated/married,none,2,car,43,none,own,1,unskilled/resident,1,good
+346,moderate,13,default,radio/television,882,little,< 1 year,4,male   : single,guarantor,4,real estate,23,none,own,2,skilled employee,1,good
+347,moderate,24,paid back,radio/television,3758,quite rich,unemployed,1,female : divorced/separated/married,none,4,no property,23,none,rent,1,unemployed/non-resident,1,good
+348,No Account,6,delay,business,1743,moderate,1 to <4 years,1,male   : single,none,2,real estate,34,none,own,2,unskilled/resident,1,good
+349,moderate,9,default,education,1136,rich,>= 7 years,4,male   : single,none,3,no property,32,none,for free,2,skilled employee,2,bad
+350,No Account,9,paid back,domestic appliances,1236,little,< 1 year,1,female : divorced/separated/married,none,4,real estate,23,none,rent,1,skilled employee,1,good
+351,moderate,9,paid back,furniture/equipment,959,little,1 to <4 years,1,female : divorced/separated/married,none,2,car,29,none,own,1,skilled employee,1,bad
+352,No Account,18,default,car,3229,unknown,unemployed,2,male   : single,none,4,no property,38,none,own,1,management/highly qualified employee,1,good
+353,little,12,paid back,radio/television,6199,little,1 to <4 years,4,male   : single,none,2,life insurance,28,none,rent,2,skilled employee,1,bad
+354,No Account,10,paid back,education,727,quite rich,>= 7 years,4,male   : single,none,4,no property,46,none,for free,1,skilled employee,1,good
+355,moderate,24,paid back,car,1246,little,< 1 year,4,male   : single,none,2,real estate,23,stores,own,1,unskilled/resident,1,bad
+356,No Account,12,default,radio/television,2331,unknown,>= 7 years,1,male   : single,co-applicant,4,real estate,49,none,own,1,skilled employee,1,good
+357,No Account,36,delay,radio/television,4463,little,1 to <4 years,4,male   : single,none,2,car,26,none,own,2,management/highly qualified employee,1,bad
+358,No Account,12,paid back,radio/television,776,little,1 to <4 years,4,male   : married/widowed,none,2,real estate,28,none,own,1,skilled employee,1,good
+359,little,30,paid back,furniture/equipment,2406,little,4 to <7 years,4,female : divorced/separated/married,none,4,real estate,23,none,rent,1,skilled employee,1,bad
+360,moderate,18,paid back,education,1239,unknown,1 to <4 years,4,male   : single,none,4,no property,61,none,for free,1,skilled employee,1,good
+361,rich,12,paid back,radio/television,3399,unknown,>= 7 years,2,male   : single,none,3,car,37,none,own,1,management/highly qualified employee,1,good
+362,rich,12,delay,car,2247,little,1 to <4 years,2,female : divorced/separated/married,none,2,car,36,stores,own,2,skilled employee,1,good
+363,No Account,6,paid back,furniture/equipment,1766,little,1 to <4 years,1,male   : married/widowed,none,2,life insurance,21,none,rent,1,skilled employee,1,good
+364,little,18,paid back,furniture/equipment,2473,little,unemployed,4,male   : single,none,1,car,25,none,own,1,unemployed/non-resident,1,bad
+365,No Account,12,paid back,business,1542,little,4 to <7 years,2,male   : single,none,4,car,36,none,own,1,skilled employee,1,good
+366,No Account,18,default,car,3850,little,4 to <7 years,3,male   : single,none,1,car,27,none,own,2,skilled employee,1,good
+367,little,18,paid back,furniture/equipment,3650,little,< 1 year,1,female : divorced/separated/married,none,4,car,22,none,rent,1,skilled employee,1,good
+368,little,36,paid back,furniture/equipment,3446,little,>= 7 years,4,male   : single,none,2,car,42,none,own,1,skilled employee,2,bad
+369,moderate,18,paid back,furniture/equipment,3001,little,4 to <7 years,2,female : divorced/separated/married,none,4,real estate,40,none,rent,1,skilled employee,1,good
+370,No Account,36,paid back,car,3079,unknown,1 to <4 years,4,male   : single,none,4,real estate,36,none,own,1,skilled employee,1,good
+371,No Account,18,default,radio/television,6070,little,>= 7 years,3,male   : single,none,4,car,33,none,own,2,skilled employee,1,good
+372,No Account,10,default,furniture/equipment,2146,little,< 1 year,1,female : divorced/separated/married,none,3,real estate,23,none,rent,2,skilled employee,1,good
+373,No Account,60,default,car,13756,unknown,>= 7 years,2,male   : single,none,4,no property,63,bank,for free,1,management/highly qualified employee,1,good
+374,moderate,60,paid back,others,14782,moderate,>= 7 years,3,female : divorced/separated/married,none,4,no property,60,bank,for free,2,management/highly qualified employee,1,bad
+375,little,48,paid back,business,7685,little,4 to <7 years,2,female : divorced/separated/married,guarantor,4,car,37,none,rent,1,skilled employee,1,bad
+376,No Account,18,delay,radio/television,2320,little,unemployed,2,male   : married/widowed,none,3,real estate,34,none,own,2,skilled employee,1,good
+377,No Account,7,delay,radio/television,846,unknown,>= 7 years,3,male   : single,none,4,no property,36,none,for free,1,skilled employee,1,good
+378,moderate,36,paid back,car,14318,little,>= 7 years,4,male   : single,none,2,no property,57,none,for free,1,management/highly qualified employee,1,bad
+379,No Account,6,default,car,362,moderate,1 to <4 years,4,female : divorced/separated/married,none,4,car,52,none,own,2,unskilled/resident,1,good
+380,little,20,paid back,furniture/equipment,2212,unknown,4 to <7 years,4,male   : single,none,4,car,39,none,own,1,skilled employee,1,good
+381,moderate,18,paid back,car,12976,little,unemployed,3,female : divorced/separated/married,none,4,no property,38,none,for free,1,management/highly qualified employee,1,bad
+382,No Account,22,paid back,car,1283,unknown,4 to <7 years,4,female : divorced/separated/married,none,4,life insurance,25,none,rent,1,skilled employee,1,good
+383,rich,12,paid back,car,1330,little,< 1 year,4,male   : single,none,1,real estate,26,none,own,1,skilled employee,1,good
+384,No Account,30,delay,business,4272,moderate,1 to <4 years,2,male   : single,none,2,life insurance,26,none,own,2,unskilled/resident,1,good
+385,No Account,18,default,radio/television,2238,little,1 to <4 years,2,female : divorced/separated/married,none,1,car,25,none,own,2,skilled employee,1,good
+386,No Account,18,paid back,radio/television,1126,unknown,< 1 year,4,female : divorced/separated/married,none,2,real estate,21,none,rent,1,skilled employee,1,good
+387,moderate,18,default,furniture/equipment,7374,little,unemployed,4,male   : single,none,4,life insurance,40,stores,own,2,management/highly qualified employee,1,good
+388,moderate,15,default,business,2326,quite rich,1 to <4 years,2,male   : single,none,4,car,27,bank,own,1,skilled employee,1,good
+389,No Account,9,paid back,business,1449,little,4 to <7 years,3,female : divorced/separated/married,none,2,car,27,none,own,2,skilled employee,1,good
+390,No Account,18,paid back,car,1820,little,1 to <4 years,2,male   : married/widowed,none,2,life insurance,30,none,own,1,management/highly qualified employee,1,good
+391,moderate,12,paid back,furniture/equipment,983,rich,< 1 year,1,female : divorced/separated/married,none,4,real estate,19,none,rent,1,unskilled/resident,1,good
+392,little,36,paid back,car,3249,little,4 to <7 years,2,male   : single,none,4,no property,39,bank,for free,1,management/highly qualified employee,2,good
+393,little,6,default,radio/television,1957,little,4 to <7 years,1,female : divorced/separated/married,none,4,car,31,none,own,1,skilled employee,1,good
+394,No Account,9,default,furniture/equipment,2406,little,unemployed,2,male   : single,none,3,car,31,none,own,1,management/highly qualified employee,1,good
+395,moderate,39,delay,education,11760,moderate,4 to <7 years,2,male   : single,none,3,no property,32,none,rent,1,skilled employee,1,good
+396,little,12,paid back,furniture/equipment,2578,little,unemployed,3,female : divorced/separated/married,none,4,no property,55,none,for free,1,management/highly qualified employee,1,good
+397,little,36,default,furniture/equipment,2348,little,1 to <4 years,3,male   : married/widowed,none,2,life insurance,46,none,own,2,skilled employee,1,good
+398,moderate,12,paid back,car,1223,little,>= 7 years,1,male   : divorced/separated,none,1,real estate,46,none,rent,2,skilled employee,1,bad
+399,No Account,24,default,radio/television,1516,rich,1 to <4 years,4,female : divorced/separated/married,none,1,real estate,43,none,own,2,unskilled/resident,1,good
+400,No Account,18,paid back,radio/television,1473,little,< 1 year,3,male   : married/widowed,none,4,real estate,39,none,own,1,skilled employee,1,good
+401,moderate,18,default,business,1887,unknown,1 to <4 years,4,male   : married/widowed,none,4,real estate,28,bank,own,2,skilled employee,1,good
+402,No Account,24,delay,business,8648,little,< 1 year,2,male   : single,none,2,car,27,bank,own,2,skilled employee,1,bad
+403,No Account,14,delay,car,802,little,1 to <4 years,4,male   : single,none,2,car,27,none,own,2,unskilled/resident,1,good
+404,moderate,18,delay,car,2899,unknown,>= 7 years,4,male   : single,none,4,car,43,none,own,1,skilled employee,2,good
+405,moderate,24,paid back,radio/television,2039,little,< 1 year,1,male   : married/widowed,none,1,life insurance,22,none,own,1,skilled employee,1,bad
+406,No Account,24,default,car,2197,unknown,4 to <7 years,4,male   : single,none,4,car,43,none,own,2,skilled employee,2,good
+407,little,15,paid back,radio/television,1053,little,< 1 year,4,male   : married/widowed,none,2,real estate,27,none,own,1,skilled employee,1,good
+408,No Account,24,paid back,radio/television,3235,quite rich,>= 7 years,3,male   : divorced/separated,none,2,car,26,none,own,1,management/highly qualified employee,1,good
+409,rich,12,default,car,939,quite rich,4 to <7 years,4,male   : married/widowed,none,2,real estate,28,none,own,3,skilled employee,1,bad
+410,moderate,24,paid back,radio/television,1967,little,>= 7 years,4,female : divorced/separated/married,none,4,car,20,none,own,1,skilled employee,1,good
+411,No Account,33,default,car,7253,little,4 to <7 years,3,male   : single,none,2,car,35,none,own,2,management/highly qualified employee,1,good
+412,No Account,12,default,business,2292,little,unemployed,4,male   : single,none,2,car,42,stores,own,2,management/highly qualified employee,1,bad
+413,No Account,10,paid back,car,1597,quite rich,1 to <4 years,3,male   : single,none,2,no property,40,none,rent,1,unskilled/resident,2,good
+414,little,24,paid back,car,1381,unknown,1 to <4 years,4,female : divorced/separated/married,none,2,life insurance,35,none,own,1,skilled employee,1,bad
+415,No Account,36,default,car,5842,little,>= 7 years,2,male   : single,none,2,life insurance,35,none,own,2,skilled employee,2,good
+416,little,12,paid back,car,2579,little,< 1 year,4,male   : single,none,1,real estate,33,none,own,1,unskilled/resident,2,bad
+417,little,18,delay,education,8471,unknown,1 to <4 years,1,female : divorced/separated/married,none,2,car,23,none,rent,2,skilled employee,1,good
+418,No Account,21,paid back,car,2782,quite rich,4 to <7 years,1,female : divorced/separated/married,none,2,car,31,bank,own,1,management/highly qualified employee,1,good
+419,moderate,18,paid back,car,1042,unknown,1 to <4 years,4,female : divorced/separated/married,none,2,life insurance,33,none,own,1,skilled employee,1,bad
+420,No Account,15,paid back,car,3186,rich,4 to <7 years,2,female : divorced/separated/married,none,3,car,20,none,rent,1,skilled employee,1,good
+421,moderate,12,paid back,car,2028,unknown,1 to <4 years,4,male   : single,none,2,car,30,none,own,1,skilled employee,1,good
+422,moderate,12,default,car,958,little,4 to <7 years,2,male   : single,none,3,real estate,47,none,own,2,unskilled/resident,2,good
+423,No Account,21,delay,furniture/equipment,1591,moderate,4 to <7 years,4,male   : single,none,3,real estate,34,none,own,2,management/highly qualified employee,1,good
+424,moderate,12,paid back,furniture/equipment,2762,unknown,>= 7 years,1,female : divorced/separated/married,none,2,life insurance,25,bank,own,1,skilled employee,1,bad
+425,moderate,18,paid back,car,2779,little,1 to <4 years,1,male   : married/widowed,none,3,car,21,none,rent,1,skilled employee,1,good
+426,No Account,28,default,radio/television,2743,little,>= 7 years,4,male   : single,none,2,car,29,none,own,2,skilled employee,1,good
+427,No Account,18,default,radio/television,1149,rich,1 to <4 years,4,male   : single,none,3,real estate,46,none,own,2,skilled employee,1,good
+428,No Account,9,paid back,furniture/equipment,1313,little,>= 7 years,1,male   : single,none,4,car,20,none,own,1,skilled employee,1,good
+429,little,18,default,repairs,1190,little,unemployed,2,female : divorced/separated/married,none,4,no property,55,none,for free,3,unemployed/non-resident,2,bad
+430,No Account,5,paid back,business,3448,little,4 to <7 years,1,male   : single,none,4,real estate,74,none,own,1,unskilled/resident,1,good
+431,moderate,24,paid back,others,11328,little,1 to <4 years,2,male   : single,co-applicant,3,car,29,bank,own,2,management/highly qualified employee,1,bad
+432,little,6,default,furniture/equipment,1872,little,unemployed,4,male   : single,none,4,no property,36,none,for free,3,management/highly qualified employee,1,good
+433,No Account,24,default,repairs,2058,little,1 to <4 years,4,male   : divorced/separated,none,2,real estate,33,none,own,2,skilled employee,1,good
+434,little,9,paid back,furniture/equipment,2136,little,1 to <4 years,3,male   : single,none,2,real estate,25,none,own,1,skilled employee,1,good
+435,moderate,12,paid back,radio/television,1484,unknown,1 to <4 years,2,male   : married/widowed,none,1,real estate,25,none,own,1,skilled employee,1,bad
+436,No Account,6,paid back,repairs,660,quite rich,4 to <7 years,2,male   : married/widowed,none,4,real estate,23,none,rent,1,unskilled/resident,1,good
+437,No Account,24,default,car,1287,rich,>= 7 years,4,female : divorced/separated/married,none,4,real estate,37,none,own,2,skilled employee,1,good
+438,little,42,default,repairs,3394,little,unemployed,4,male   : single,co-applicant,4,car,65,none,own,2,unemployed/non-resident,1,good
+439,rich,12,paid back,business,609,little,< 1 year,4,female : divorced/separated/married,none,1,real estate,26,none,own,1,unemployed/non-resident,1,bad
+440,No Account,12,paid back,car,1884,little,>= 7 years,4,male   : single,none,4,car,39,none,own,1,management/highly qualified employee,1,good
+441,little,12,paid back,furniture/equipment,1620,little,1 to <4 years,2,female : divorced/separated/married,co-applicant,3,life insurance,30,none,own,1,skilled employee,1,good
+442,moderate,20,delay,others,2629,little,1 to <4 years,2,male   : single,none,3,car,29,bank,own,2,skilled employee,1,good
+443,No Account,12,paid back,education,719,little,>= 7 years,4,male   : single,none,4,car,41,bank,own,1,unskilled/resident,2,bad
+444,moderate,48,default,furniture/equipment,5096,little,1 to <4 years,2,female : divorced/separated/married,none,3,car,30,none,own,1,management/highly qualified employee,1,bad
+445,No Account,9,default,education,1244,unknown,>= 7 years,4,female : divorced/separated/married,none,4,life insurance,41,none,rent,2,unskilled/resident,1,good
+446,little,36,paid back,car,1842,little,< 1 year,4,female : divorced/separated/married,none,4,car,34,none,own,1,skilled employee,1,bad
+447,moderate,7,paid back,radio/television,2576,little,1 to <4 years,2,male   : single,guarantor,2,real estate,35,none,own,1,skilled employee,1,good
+448,rich,12,paid back,furniture/equipment,1424,unknown,>= 7 years,3,female : divorced/separated/married,none,4,real estate,55,none,own,1,management/highly qualified employee,1,good
+449,moderate,15,delay,repairs,1512,rich,1 to <4 years,3,male   : married/widowed,none,3,life insurance,61,stores,own,2,skilled employee,1,bad
+450,No Account,36,default,car,11054,unknown,1 to <4 years,4,male   : single,none,2,car,30,none,own,1,management/highly qualified employee,1,good
+451,No Account,6,paid back,radio/television,518,little,1 to <4 years,3,female : divorced/separated/married,none,1,real estate,29,none,own,1,skilled employee,1,good
+452,No Account,12,paid back,furniture/equipment,2759,little,>= 7 years,2,male   : single,none,4,life insurance,34,none,own,2,skilled employee,1,good
+453,No Account,24,paid back,car,2670,little,>= 7 years,4,male   : single,none,4,car,35,none,own,1,management/highly qualified employee,1,good
+454,little,24,paid back,car,4817,little,4 to <7 years,2,male   : single,co-applicant,3,life insurance,31,none,own,1,skilled employee,1,bad
+455,No Account,24,paid back,car,2679,little,< 1 year,4,female : divorced/separated/married,none,1,no property,29,none,own,1,management/highly qualified employee,1,good
+456,little,11,default,car,3905,little,1 to <4 years,2,male   : single,none,2,real estate,36,none,rent,2,skilled employee,2,good
+457,little,12,paid back,car,3386,little,>= 7 years,3,male   : single,none,4,no property,35,none,for free,1,skilled employee,1,bad
+458,little,6,paid back,domestic appliances,343,little,< 1 year,4,female : divorced/separated/married,none,1,real estate,27,none,own,1,skilled employee,1,good
+459,No Account,18,paid back,radio/television,4594,little,< 1 year,3,male   : single,none,2,car,32,none,own,1,skilled employee,1,good
+460,little,36,paid back,furniture/equipment,3620,little,1 to <4 years,1,male   : single,guarantor,2,life insurance,37,none,own,1,skilled employee,2,good
+461,little,15,paid back,car,1721,little,< 1 year,2,male   : single,none,3,real estate,36,none,own,1,skilled employee,1,good
+462,moderate,12,paid back,furniture/equipment,3017,little,< 1 year,3,female : divorced/separated/married,none,1,real estate,34,none,rent,1,management/highly qualified employee,1,good
+463,moderate,12,paid back,retraining,754,unknown,>= 7 years,4,male   : single,none,4,life insurance,38,none,own,2,skilled employee,1,good
+464,No Account,18,paid back,business,1950,little,4 to <7 years,4,male   : single,none,1,car,34,stores,own,2,skilled employee,1,good
+465,little,24,paid back,car,2924,little,1 to <4 years,3,male   : single,guarantor,4,no property,63,bank,own,1,skilled employee,2,good
+466,little,24,delay,radio/television,1659,little,< 1 year,4,female : divorced/separated/married,none,2,car,29,none,rent,1,unskilled/resident,1,bad
+467,No Account,48,delay,radio/television,7238,unknown,>= 7 years,3,male   : single,none,3,car,32,bank,own,2,skilled employee,2,good
+468,No Account,33,delay,business,2764,little,1 to <4 years,2,female : divorced/separated/married,none,2,car,26,none,own,2,skilled employee,1,good
+469,No Account,24,delay,car,4679,little,4 to <7 years,3,male   : single,none,3,car,35,none,own,2,unskilled/resident,1,good
+470,moderate,24,paid back,radio/television,3092,moderate,< 1 year,3,male   : married/widowed,none,2,car,22,none,rent,1,skilled employee,1,bad
+471,little,6,paid back,education,448,little,< 1 year,4,female : divorced/separated/married,none,4,life insurance,23,none,own,1,skilled employee,1,bad
+472,little,9,paid back,car,654,little,1 to <4 years,4,male   : single,none,3,car,28,none,own,1,unskilled/resident,1,bad
+473,No Account,6,paid back,retraining,1238,unknown,unemployed,4,male   : single,none,4,life insurance,36,none,own,1,management/highly qualified employee,2,good
+474,moderate,18,default,radio/television,1245,little,1 to <4 years,4,male   : married/widowed,none,2,car,33,none,own,1,skilled employee,1,bad
+475,little,18,paid back,furniture/equipment,3114,little,< 1 year,1,female : divorced/separated/married,none,4,life insurance,26,none,rent,1,skilled employee,1,bad
+476,No Account,39,paid back,car,2569,quite rich,1 to <4 years,4,male   : single,none,4,car,24,none,own,1,skilled employee,1,good
+477,rich,24,paid back,radio/television,5152,little,4 to <7 years,4,male   : single,none,2,car,25,bank,own,1,skilled employee,1,good
+478,moderate,12,paid back,business,1037,moderate,4 to <7 years,3,male   : single,none,4,real estate,39,none,own,1,unskilled/resident,1,good
+479,little,15,default,furniture/equipment,1478,little,>= 7 years,4,male   : single,none,4,car,44,none,own,2,skilled employee,2,good
+480,moderate,12,default,radio/television,3573,little,1 to <4 years,1,female : divorced/separated/married,none,1,real estate,23,none,own,1,unskilled/resident,1,good
+481,moderate,24,paid back,car,1201,little,< 1 year,4,male   : single,none,1,life insurance,26,none,own,1,skilled employee,1,good
+482,little,30,paid back,furniture/equipment,3622,rich,>= 7 years,4,female : divorced/separated/married,none,4,life insurance,57,none,rent,2,skilled employee,1,good
+483,No Account,15,delay,furniture/equipment,960,rich,4 to <7 years,3,female : divorced/separated/married,none,2,life insurance,30,none,own,2,skilled employee,1,good
+484,No Account,12,default,car,1163,quite rich,1 to <4 years,4,male   : single,none,4,real estate,44,none,own,1,skilled employee,1,good
+485,moderate,6,delay,car,1209,little,unemployed,4,male   : single,none,4,life insurance,47,none,own,1,management/highly qualified employee,1,bad
+486,No Account,12,paid back,radio/television,3077,little,1 to <4 years,2,male   : single,none,4,car,52,none,own,1,skilled employee,1,good
+487,No Account,24,paid back,car,3757,little,>= 7 years,4,female : divorced/separated/married,co-applicant,4,no property,62,none,for free,1,skilled employee,1,good
+488,No Account,10,paid back,car,1418,moderate,1 to <4 years,3,male   : single,none,2,real estate,35,none,rent,1,unskilled/resident,1,good
+489,No Account,6,paid back,car,3518,little,1 to <4 years,2,male   : single,guarantor,3,life insurance,26,none,rent,1,skilled employee,1,good
+490,No Account,12,default,radio/television,1934,little,>= 7 years,2,male   : single,none,2,no property,26,none,own,2,skilled employee,1,good
+491,moderate,27,paid back,business,8318,little,>= 7 years,2,female : divorced/separated/married,none,4,no property,42,none,for free,2,management/highly qualified employee,1,bad
+492,No Account,6,default,radio/television,1237,moderate,1 to <4 years,1,female : divorced/separated/married,none,1,life insurance,27,none,own,2,skilled employee,1,good
+493,moderate,6,paid back,radio/television,368,unknown,>= 7 years,4,male   : single,none,4,life insurance,38,none,own,1,skilled employee,1,good
+494,little,12,default,car,2122,little,1 to <4 years,3,male   : single,none,2,real estate,39,none,rent,2,unskilled/resident,2,good
+495,little,24,paid back,furniture/equipment,2996,unknown,1 to <4 years,2,male   : married/widowed,none,4,car,20,none,own,1,skilled employee,1,bad
+496,moderate,36,paid back,furniture/equipment,9034,moderate,< 1 year,4,male   : single,co-applicant,1,no property,29,none,rent,1,management/highly qualified employee,1,bad
+497,No Account,24,default,furniture/equipment,1585,little,4 to <7 years,4,male   : single,none,3,life insurance,40,none,own,2,skilled employee,1,good
+498,moderate,18,paid back,radio/television,1301,little,>= 7 years,4,male   : married/widowed,guarantor,2,real estate,32,none,own,1,unskilled/resident,1,good
+499,rich,6,default,car,1323,moderate,>= 7 years,2,male   : divorced/separated,none,4,car,28,none,own,2,skilled employee,2,good
+500,little,24,paid back,car,3123,little,< 1 year,4,female : divorced/separated/married,none,1,life insurance,27,none,own,1,skilled employee,1,bad
+501,little,36,paid back,car,5493,little,>= 7 years,2,male   : single,none,4,no property,42,none,for free,1,skilled employee,2,good
+502,rich,9,paid back,radio/television,1126,moderate,>= 7 years,2,male   : divorced/separated,none,4,real estate,49,none,own,1,skilled employee,1,good
+503,moderate,24,default,radio/television,1216,moderate,< 1 year,4,male   : single,none,4,no property,38,bank,own,2,skilled employee,2,bad
+504,little,24,paid back,car,1207,little,< 1 year,4,female : divorced/separated/married,none,4,life insurance,24,none,rent,1,skilled employee,1,bad
+505,No Account,10,paid back,car,1309,unknown,1 to <4 years,4,male   : single,guarantor,4,life insurance,27,none,own,1,unskilled/resident,1,bad
+506,rich,15,default,car,2360,quite rich,1 to <4 years,2,male   : single,none,2,car,36,none,own,1,skilled employee,1,good
+507,moderate,15,paid back,car,6850,moderate,unemployed,1,male   : single,none,2,life insurance,34,none,own,1,management/highly qualified employee,2,bad
+508,No Account,24,paid back,radio/television,1413,little,1 to <4 years,4,male   : married/widowed,none,2,life insurance,28,none,own,1,skilled employee,1,good
+509,No Account,39,paid back,car,8588,moderate,>= 7 years,4,male   : single,none,2,car,45,none,own,1,management/highly qualified employee,1,good
+510,little,12,paid back,car,759,little,4 to <7 years,4,male   : single,none,2,real estate,26,none,own,1,skilled employee,1,bad
+511,No Account,36,paid back,car,4686,little,1 to <4 years,2,male   : single,none,2,no property,32,none,for free,1,management/highly qualified employee,1,good
+512,rich,15,paid back,business,2687,little,4 to <7 years,2,male   : single,none,4,life insurance,26,none,rent,1,skilled employee,1,good
+513,moderate,12,delay,radio/television,585,little,1 to <4 years,4,male   : married/widowed,co-applicant,4,real estate,20,none,rent,2,skilled employee,1,good
+514,No Account,24,paid back,car,2255,unknown,< 1 year,4,male   : single,none,1,life insurance,54,none,own,1,skilled employee,1,good
+515,little,6,default,car,609,little,4 to <7 years,4,female : divorced/separated/married,none,3,life insurance,37,none,own,2,skilled employee,1,good
+516,little,6,default,car,1361,little,< 1 year,2,male   : single,none,4,real estate,40,none,own,1,unskilled/resident,2,good
+517,No Account,36,default,furniture/equipment,7127,little,< 1 year,2,female : divorced/separated/married,none,4,life insurance,23,none,rent,2,skilled employee,1,bad
+518,little,6,paid back,car,1203,moderate,>= 7 years,3,male   : single,none,2,life insurance,43,none,own,1,skilled employee,1,good
+519,No Account,6,default,radio/television,700,unknown,>= 7 years,4,male   : single,none,4,no property,36,none,for free,2,skilled employee,1,good
+520,No Account,24,default,repairs,5507,little,>= 7 years,3,male   : single,none,4,no property,44,none,for free,2,skilled employee,1,good
+521,little,18,paid back,radio/television,3190,little,1 to <4 years,2,female : divorced/separated/married,none,2,real estate,24,none,own,1,skilled employee,1,bad
+522,little,48,paid back,furniture/equipment,7119,little,1 to <4 years,3,male   : single,none,4,no property,53,none,for free,2,skilled employee,2,bad
+523,No Account,24,paid back,car,3488,moderate,4 to <7 years,3,female : divorced/separated/married,none,4,car,23,none,own,1,skilled employee,1,good
+524,moderate,18,paid back,radio/television,1113,little,1 to <4 years,4,female : divorced/separated/married,guarantor,4,real estate,26,none,own,1,unskilled/resident,2,good
+525,moderate,26,paid back,car,7966,little,< 1 year,2,male   : single,none,3,car,30,none,own,2,skilled employee,1,good
+526,No Account,15,default,education,1532,moderate,1 to <4 years,4,female : divorced/separated/married,none,3,car,31,none,own,1,skilled employee,1,good
+527,No Account,4,default,radio/television,1503,little,4 to <7 years,2,male   : single,none,1,real estate,42,none,own,2,unskilled/resident,2,good
+528,little,36,paid back,radio/television,2302,little,1 to <4 years,4,male   : divorced/separated,none,4,car,31,none,rent,1,skilled employee,1,bad
+529,little,6,paid back,car,662,little,< 1 year,3,male   : single,none,4,real estate,41,none,own,1,unskilled/resident,2,good
+530,moderate,36,paid back,education,2273,little,4 to <7 years,3,male   : single,none,1,car,32,none,own,2,skilled employee,2,good
+531,moderate,15,paid back,car,2631,moderate,1 to <4 years,2,female : divorced/separated/married,none,4,car,28,none,rent,2,skilled employee,1,bad
+532,No Account,12,delay,car,1503,little,1 to <4 years,4,male   : married/widowed,none,4,real estate,41,none,rent,1,skilled employee,1,good
+533,No Account,24,paid back,radio/television,1311,moderate,4 to <7 years,4,male   : married/widowed,none,3,life insurance,26,none,own,1,skilled employee,1,good
+534,No Account,24,paid back,radio/television,3105,unknown,< 1 year,4,male   : single,none,2,car,25,none,own,2,skilled employee,1,good
+535,rich,21,default,education,2319,little,< 1 year,2,male   : divorced/separated,none,1,car,33,none,rent,1,skilled employee,1,bad
+536,little,6,paid back,car,1374,unknown,unemployed,4,female : divorced/separated/married,none,3,life insurance,75,none,own,1,management/highly qualified employee,1,good
+537,moderate,18,default,furniture/equipment,3612,little,>= 7 years,3,female : divorced/separated/married,none,4,life insurance,37,none,own,1,skilled employee,1,good
+538,little,48,paid back,car,7763,little,>= 7 years,4,male   : single,none,4,no property,42,bank,for free,1,management/highly qualified employee,1,bad
+539,rich,18,paid back,furniture/equipment,3049,little,< 1 year,1,female : divorced/separated/married,none,1,life insurance,45,stores,own,1,unskilled/resident,1,good
+540,moderate,12,paid back,radio/television,1534,little,< 1 year,1,male   : married/widowed,none,1,real estate,23,none,rent,1,skilled employee,1,bad
+541,No Account,24,delay,car,2032,little,>= 7 years,4,male   : single,none,4,no property,60,none,for free,2,skilled employee,1,good
+542,little,30,paid back,furniture/equipment,6350,unknown,>= 7 years,4,male   : single,none,4,life insurance,31,none,own,1,skilled employee,1,bad
+543,rich,18,paid back,furniture/equipment,2864,little,1 to <4 years,2,male   : single,none,1,real estate,34,none,own,1,unskilled/resident,2,bad
+544,No Account,12,default,car,1255,little,>= 7 years,4,male   : single,none,4,real estate,61,none,own,2,unskilled/resident,1,good
+545,little,24,delay,car,1333,little,unemployed,4,male   : single,none,2,real estate,43,none,for free,2,skilled employee,2,bad
+546,No Account,24,default,car,2022,little,1 to <4 years,4,female : divorced/separated/married,none,4,car,37,none,own,1,skilled employee,1,good
+547,No Account,24,paid back,radio/television,1552,little,4 to <7 years,3,male   : single,none,1,car,32,bank,own,1,skilled employee,2,good
+548,little,12,paid back,radio/television,626,little,1 to <4 years,4,female : divorced/separated/married,none,4,real estate,24,bank,own,1,unskilled/resident,1,bad
+549,No Account,48,default,car,8858,unknown,4 to <7 years,2,male   : single,none,1,no property,35,none,for free,2,skilled employee,1,good
+550,No Account,12,default,repairs,996,unknown,4 to <7 years,4,female : divorced/separated/married,none,4,real estate,23,none,own,2,skilled employee,1,good
+551,No Account,6,paid back,radio/television,1750,quite rich,>= 7 years,2,male   : single,none,4,life insurance,45,bank,own,1,unskilled/resident,2,good
+552,little,48,paid back,radio/television,6999,little,4 to <7 years,1,male   : married/widowed,guarantor,1,real estate,34,none,own,2,skilled employee,1,bad
+553,moderate,12,default,car,1995,moderate,< 1 year,4,male   : single,none,1,car,27,none,own,1,skilled employee,1,good
+554,moderate,9,paid back,education,1199,little,4 to <7 years,4,female : divorced/separated/married,none,4,life insurance,67,none,own,2,management/highly qualified employee,1,good
+555,moderate,12,paid back,radio/television,1331,little,< 1 year,2,male   : single,none,1,car,22,stores,own,1,skilled employee,1,bad
+556,moderate,18,paid back,car,2278,moderate,< 1 year,3,female : divorced/separated/married,none,3,car,28,none,own,2,skilled employee,1,bad
+557,No Account,21,paid back,car,5003,unknown,1 to <4 years,1,female : divorced/separated/married,none,4,life insurance,29,bank,own,2,skilled employee,1,bad
+558,little,24,paid back,furniture/equipment,3552,little,4 to <7 years,3,male   : single,none,4,car,27,bank,own,1,skilled employee,1,bad
+559,moderate,18,default,furniture/equipment,1928,little,< 1 year,2,male   : single,none,2,real estate,31,none,own,2,unskilled/resident,1,bad
+560,little,24,paid back,car,2964,unknown,>= 7 years,4,male   : single,none,4,no property,49,bank,for free,1,skilled employee,2,good
+561,little,24,paid back,radio/television,1546,little,4 to <7 years,4,male   : single,guarantor,4,car,24,bank,rent,1,unskilled/resident,1,bad
+562,rich,6,delay,radio/television,683,little,< 1 year,2,female : divorced/separated/married,none,1,life insurance,29,bank,own,1,skilled employee,1,good
+563,moderate,36,paid back,car,12389,unknown,1 to <4 years,1,male   : single,none,4,no property,37,none,for free,1,skilled employee,1,bad
+564,moderate,24,delay,business,4712,unknown,1 to <4 years,4,male   : single,none,2,life insurance,37,bank,own,2,management/highly qualified employee,1,good
+565,moderate,24,delay,radio/television,1553,moderate,4 to <7 years,3,female : divorced/separated/married,none,2,life insurance,23,none,rent,2,skilled employee,1,good
+566,little,12,paid back,car,1372,little,4 to <7 years,2,male   : divorced/separated,none,3,car,36,none,own,1,skilled employee,1,bad
+567,No Account,24,default,radio/television,2578,rich,>= 7 years,2,male   : single,none,2,car,34,none,own,1,skilled employee,1,good
+568,moderate,48,paid back,radio/television,3979,unknown,4 to <7 years,4,male   : single,none,1,car,41,none,own,2,skilled employee,2,good
+569,little,48,paid back,radio/television,6758,little,1 to <4 years,3,female : divorced/separated/married,none,2,car,31,none,own,1,skilled employee,1,bad
+570,little,24,paid back,furniture/equipment,3234,little,< 1 year,4,female : divorced/separated/married,none,4,real estate,23,none,rent,1,unskilled/resident,1,bad
+571,No Account,30,default,radio/television,5954,little,4 to <7 years,3,male   : single,co-applicant,2,car,38,none,own,1,skilled employee,1,good
+572,No Account,24,paid back,car,5433,unknown,unemployed,2,female : divorced/separated/married,none,4,life insurance,26,none,rent,1,management/highly qualified employee,1,good
+573,little,15,paid back,business,806,little,1 to <4 years,4,female : divorced/separated/married,none,4,life insurance,22,none,own,1,unskilled/resident,1,good
+574,moderate,9,paid back,radio/television,1082,little,>= 7 years,4,male   : single,none,4,car,27,none,own,2,unskilled/resident,1,good
+575,No Account,15,default,furniture/equipment,2788,little,4 to <7 years,2,female : divorced/separated/married,co-applicant,3,car,24,bank,own,2,skilled employee,1,good
+576,moderate,12,paid back,radio/television,2930,little,4 to <7 years,2,female : divorced/separated/married,none,1,real estate,27,none,own,1,skilled employee,1,good
+577,No Account,24,default,education,1927,unknown,1 to <4 years,3,female : divorced/separated/married,none,2,car,33,none,own,2,skilled employee,1,good
+578,moderate,36,default,car,2820,little,< 1 year,4,male   : divorced/separated,none,4,car,27,none,own,2,skilled employee,1,bad
+579,No Account,24,paid back,retraining,937,little,< 1 year,4,male   : married/widowed,none,3,car,27,none,own,2,unskilled/resident,1,good
+580,moderate,18,default,car,1056,little,>= 7 years,3,male   : single,guarantor,3,real estate,30,bank,own,2,skilled employee,1,bad
+581,moderate,12,default,car,3124,little,< 1 year,1,male   : single,none,3,real estate,49,bank,own,2,unskilled/resident,2,good
+582,No Account,9,paid back,furniture/equipment,1388,little,1 to <4 years,4,female : divorced/separated/married,none,2,real estate,26,none,rent,1,skilled employee,1,good
+583,moderate,36,paid back,repairs,2384,little,< 1 year,4,male   : single,none,1,no property,33,none,rent,1,unskilled/resident,1,bad
+584,No Account,12,paid back,car,2133,unknown,>= 7 years,4,female : divorced/separated/married,none,4,no property,52,none,for free,1,management/highly qualified employee,1,good
+585,little,18,paid back,furniture/equipment,2039,little,1 to <4 years,1,female : divorced/separated/married,none,4,real estate,20,bank,rent,1,skilled employee,1,bad
+586,little,9,default,car,2799,little,1 to <4 years,2,male   : single,none,2,real estate,36,none,rent,2,skilled employee,2,good
+587,little,12,paid back,furniture/equipment,1289,little,1 to <4 years,4,male   : single,guarantor,1,life insurance,21,none,own,1,unskilled/resident,1,good
+588,little,18,paid back,domestic appliances,1217,little,1 to <4 years,4,male   : married/widowed,none,3,real estate,47,none,own,1,unskilled/resident,1,bad
+589,little,12,default,furniture/equipment,2246,little,>= 7 years,3,male   : single,none,3,life insurance,60,none,own,2,skilled employee,1,bad
+590,little,12,default,radio/television,385,little,4 to <7 years,4,female : divorced/separated/married,none,3,real estate,58,none,own,4,unskilled/resident,1,good
+591,moderate,24,delay,car,1965,unknown,1 to <4 years,4,female : divorced/separated/married,none,4,car,42,none,rent,2,skilled employee,1,good
+592,No Account,21,paid back,business,1572,rich,>= 7 years,4,female : divorced/separated/married,none,4,real estate,36,bank,own,1,unskilled/resident,1,good
+593,moderate,24,paid back,car,2718,little,1 to <4 years,3,female : divorced/separated/married,none,4,life insurance,20,none,rent,1,unskilled/resident,1,bad
+594,little,24,paid back,others,1358,unknown,>= 7 years,4,male   : single,none,3,car,40,stores,own,1,management/highly qualified employee,1,bad
+595,moderate,6,paid back,car,931,moderate,< 1 year,1,female : divorced/separated/married,none,1,life insurance,32,stores,own,1,unskilled/resident,1,bad
+596,little,24,paid back,car,1442,little,4 to <7 years,4,female : divorced/separated/married,none,4,car,23,none,rent,2,skilled employee,1,bad
+597,moderate,24,paid back,business,4241,little,1 to <4 years,1,male   : single,none,4,real estate,36,none,own,3,unskilled/resident,1,bad
+598,No Account,18,default,car,2775,little,4 to <7 years,2,male   : single,none,2,life insurance,31,bank,own,2,skilled employee,1,bad
+599,No Account,24,delay,business,3863,little,1 to <4 years,1,male   : single,none,2,no property,32,none,for free,1,skilled employee,1,good
+600,moderate,7,paid back,radio/television,2329,little,< 1 year,1,female : divorced/separated/married,guarantor,1,real estate,45,none,own,1,skilled employee,1,good
+601,moderate,9,paid back,furniture/equipment,918,little,1 to <4 years,4,female : divorced/separated/married,none,1,life insurance,30,none,own,1,skilled employee,1,bad
+602,moderate,24,paid back,education,1837,little,4 to <7 years,4,female : divorced/separated/married,none,4,no property,34,bank,for free,1,unskilled/resident,1,bad
+603,No Account,36,paid back,furniture/equipment,3349,little,1 to <4 years,4,female : divorced/separated/married,none,2,car,28,none,own,1,management/highly qualified employee,1,bad
+604,rich,10,paid back,furniture/equipment,1275,little,< 1 year,4,female : divorced/separated/married,none,2,life insurance,23,none,own,1,skilled employee,1,good
+605,little,24,paid back,furniture/equipment,2828,quite rich,1 to <4 years,4,male   : single,none,4,real estate,22,stores,own,1,skilled employee,1,good
+606,No Account,24,default,business,4526,little,1 to <4 years,3,male   : single,none,2,real estate,74,none,own,1,management/highly qualified employee,1,good
+607,moderate,36,paid back,radio/television,2671,moderate,1 to <4 years,4,female : divorced/separated/married,co-applicant,4,no property,50,none,for free,1,skilled employee,1,bad
+608,No Account,18,paid back,radio/television,2051,little,< 1 year,4,male   : single,none,1,real estate,33,none,own,1,skilled employee,1,good
+609,No Account,15,paid back,car,1300,unknown,>= 7 years,4,male   : single,none,4,no property,45,bank,for free,1,skilled employee,2,good
+610,little,12,paid back,domestic appliances,741,moderate,unemployed,4,female : divorced/separated/married,none,3,life insurance,22,none,own,1,skilled employee,1,bad
+611,rich,10,paid back,car,1240,moderate,>= 7 years,1,female : divorced/separated/married,none,4,no property,48,none,for free,1,unskilled/resident,2,bad
+612,little,21,paid back,radio/television,3357,rich,< 1 year,4,female : divorced/separated/married,none,2,car,29,bank,own,1,skilled employee,1,good
+613,little,24,paid back,car,3632,little,1 to <4 years,1,female : divorced/separated/married,guarantor,4,car,22,bank,rent,1,skilled employee,1,good
+614,No Account,18,delay,furniture/equipment,1808,little,4 to <7 years,4,female : divorced/separated/married,none,1,real estate,22,none,own,1,skilled employee,1,bad
+615,moderate,48,paid back,business,12204,unknown,1 to <4 years,2,male   : single,none,2,car,48,bank,own,1,management/highly qualified employee,1,good
+616,moderate,60,delay,radio/television,9157,unknown,1 to <4 years,2,male   : single,none,2,no property,27,none,for free,1,management/highly qualified employee,1,good
+617,little,6,default,car,3676,little,1 to <4 years,1,male   : single,none,3,real estate,37,none,rent,3,skilled employee,2,good
+618,moderate,30,paid back,furniture/equipment,3441,moderate,1 to <4 years,2,female : divorced/separated/married,co-applicant,4,car,21,none,rent,1,skilled employee,1,bad
+619,No Account,12,paid back,car,640,little,1 to <4 years,4,male   : divorced/separated,none,2,real estate,49,none,own,1,unskilled/resident,1,good
+620,moderate,21,default,business,3652,little,4 to <7 years,2,male   : single,none,3,life insurance,27,none,own,2,skilled employee,1,good
+621,No Account,18,default,car,1530,little,1 to <4 years,3,male   : single,none,2,life insurance,32,bank,own,2,skilled employee,1,bad
+622,No Account,48,paid back,business,3914,unknown,1 to <4 years,4,male   : divorced/separated,none,2,real estate,38,bank,own,1,skilled employee,1,bad
+623,little,12,paid back,furniture/equipment,1858,little,< 1 year,4,female : divorced/separated/married,none,1,car,22,none,rent,1,skilled employee,1,good
+624,little,18,paid back,radio/television,2600,little,1 to <4 years,4,male   : single,none,4,no property,65,none,for free,2,skilled employee,1,bad
+625,No Account,15,paid back,radio/television,1979,unknown,>= 7 years,4,male   : single,none,2,car,35,none,own,1,skilled employee,1,good
+626,rich,6,paid back,furniture/equipment,2116,little,1 to <4 years,2,male   : single,none,2,real estate,41,none,own,1,skilled employee,1,good
+627,moderate,9,paid back,car,1437,moderate,4 to <7 years,2,male   : single,none,3,no property,29,none,own,1,skilled employee,1,bad
+628,No Account,42,default,furniture/equipment,4042,quite rich,1 to <4 years,4,male   : single,none,4,real estate,36,none,own,2,skilled employee,1,good
+629,No Account,9,paid back,education,3832,unknown,>= 7 years,1,male   : single,none,4,real estate,64,none,own,1,unskilled/resident,1,good
+630,little,24,paid back,radio/television,3660,little,1 to <4 years,2,female : divorced/separated/married,none,4,car,28,none,own,1,skilled employee,1,good
+631,little,18,paid back,furniture/equipment,1553,little,1 to <4 years,4,male   : single,none,3,car,44,bank,own,1,skilled employee,1,bad
+632,moderate,15,paid back,radio/television,1444,unknown,< 1 year,4,male   : single,none,1,life insurance,23,none,own,1,skilled employee,1,good
+633,No Account,9,paid back,furniture/equipment,1980,little,< 1 year,2,female : divorced/separated/married,co-applicant,2,car,19,none,rent,2,skilled employee,1,bad
+634,moderate,24,paid back,car,1355,little,< 1 year,3,female : divorced/separated/married,none,4,car,25,none,own,1,unskilled/resident,1,bad
+635,No Account,12,paid back,education,1393,little,>= 7 years,4,male   : single,none,4,life insurance,47,bank,own,3,skilled employee,2,good
+636,No Account,24,paid back,radio/television,1376,quite rich,4 to <7 years,4,female : divorced/separated/married,none,1,car,28,none,own,1,skilled employee,1,good
+637,No Account,60,delay,radio/television,15653,little,4 to <7 years,2,male   : single,none,4,car,21,none,own,2,skilled employee,1,good
+638,No Account,12,paid back,radio/television,1493,little,< 1 year,4,female : divorced/separated/married,none,3,car,34,none,own,1,skilled employee,2,good
+639,little,42,delay,radio/television,4370,little,4 to <7 years,3,male   : single,none,2,life insurance,26,bank,own,2,skilled employee,2,bad
+640,little,18,paid back,education,750,little,unemployed,4,female : divorced/separated/married,none,1,real estate,27,none,own,1,unemployed/non-resident,1,bad
+641,moderate,15,paid back,repairs,1308,little,>= 7 years,4,male   : single,none,4,car,38,none,own,2,unskilled/resident,1,good
+642,No Account,15,paid back,education,4623,moderate,1 to <4 years,3,male   : single,none,2,life insurance,40,none,own,1,management/highly qualified employee,1,bad
+643,No Account,24,default,radio/television,1851,little,4 to <7 years,4,male   : married/widowed,guarantor,2,car,33,none,own,2,skilled employee,1,good
+644,little,18,default,radio/television,1880,little,4 to <7 years,4,male   : married/widowed,none,1,life insurance,32,none,own,2,management/highly qualified employee,1,good
+645,No Account,36,delay,business,7980,unknown,< 1 year,4,male   : single,none,4,car,27,none,rent,2,skilled employee,1,bad
+646,little,30,paid back,furniture/equipment,4583,little,1 to <4 years,2,male   : divorced/separated,guarantor,2,real estate,32,none,own,2,skilled employee,1,good
+647,No Account,12,paid back,car,1386,quite rich,1 to <4 years,2,female : divorced/separated/married,none,2,life insurance,26,none,own,1,skilled employee,1,bad
+648,rich,24,paid back,car,947,little,4 to <7 years,4,male   : single,none,3,no property,38,bank,for free,1,skilled employee,2,bad
+649,little,12,paid back,education,684,little,1 to <4 years,4,male   : single,none,4,car,40,none,rent,1,unskilled/resident,2,bad
+650,little,48,paid back,education,7476,little,4 to <7 years,4,male   : single,none,1,no property,50,none,for free,1,management/highly qualified employee,1,good
+651,moderate,12,paid back,furniture/equipment,1922,little,1 to <4 years,4,male   : single,none,2,life insurance,37,none,own,1,unskilled/resident,1,bad
+652,little,24,paid back,car,2303,little,>= 7 years,4,male   : single,co-applicant,1,real estate,45,none,own,1,skilled employee,1,bad
+653,moderate,36,delay,car,8086,moderate,>= 7 years,2,male   : single,none,4,car,42,none,own,4,management/highly qualified employee,1,bad
+654,No Account,24,default,car,2346,little,4 to <7 years,4,male   : single,none,3,car,35,none,own,2,skilled employee,1,good
+655,little,14,paid back,car,3973,little,unemployed,1,male   : single,none,4,no property,22,none,for free,1,skilled employee,1,good
+656,moderate,12,paid back,car,888,little,>= 7 years,4,male   : single,none,4,car,41,bank,own,1,unskilled/resident,2,bad
+657,No Account,48,paid back,radio/television,10222,unknown,4 to <7 years,4,male   : single,none,3,car,37,stores,own,1,skilled employee,1,good
+658,moderate,30,paid back,business,4221,little,1 to <4 years,2,female : divorced/separated/married,none,1,car,28,none,own,2,skilled employee,1,good
+659,moderate,18,default,furniture/equipment,6361,little,>= 7 years,2,male   : single,none,1,no property,41,none,own,1,skilled employee,1,good
+660,rich,12,paid back,radio/television,1297,little,1 to <4 years,3,male   : married/widowed,none,4,real estate,23,none,rent,1,skilled employee,1,good
+661,little,12,paid back,car,900,unknown,1 to <4 years,4,male   : married/widowed,none,2,car,23,none,own,1,skilled employee,1,bad
+662,No Account,21,paid back,furniture/equipment,2241,little,>= 7 years,4,male   : single,none,2,real estate,50,none,own,2,skilled employee,1,good
+663,moderate,6,delay,furniture/equipment,1050,little,unemployed,4,male   : single,none,1,life insurance,35,stores,own,2,management/highly qualified employee,1,good
+664,rich,6,default,education,1047,little,1 to <4 years,2,female : divorced/separated/married,none,4,life insurance,50,none,own,1,unskilled/resident,1,good
+665,No Account,24,default,others,6314,little,unemployed,4,male   : single,co-applicant,2,no property,27,bank,own,2,management/highly qualified employee,1,good
+666,moderate,30,paid back,furniture/equipment,3496,rich,1 to <4 years,4,male   : single,none,2,car,34,stores,own,1,skilled employee,2,good
+667,No Account,48,paid back,business,3609,little,1 to <4 years,1,female : divorced/separated/married,none,1,real estate,27,stores,own,1,skilled employee,1,good
+668,little,12,default,car,4843,little,>= 7 years,3,male   : single,co-applicant,4,life insurance,43,none,rent,2,skilled employee,1,bad
+669,rich,30,default,radio/television,3017,little,>= 7 years,4,male   : single,none,4,life insurance,47,none,own,1,skilled employee,1,good
+670,No Account,24,default,business,4139,moderate,1 to <4 years,3,male   : single,none,3,life insurance,27,none,own,2,unskilled/resident,1,good
+671,No Account,36,paid back,business,5742,moderate,4 to <7 years,2,male   : single,none,2,car,31,none,own,2,skilled employee,1,good
+672,No Account,60,paid back,car,10366,little,>= 7 years,2,male   : single,none,4,life insurance,42,none,own,1,management/highly qualified employee,1,good
+673,No Account,6,default,car,2080,quite rich,1 to <4 years,1,male   : married/widowed,none,2,car,24,none,own,1,skilled employee,1,good
+674,No Account,21,delay,business,2580,quite rich,< 1 year,4,male   : single,none,2,real estate,41,bank,own,1,unskilled/resident,2,bad
+675,No Account,30,default,radio/television,4530,little,4 to <7 years,4,female : divorced/separated/married,none,4,car,26,none,rent,1,management/highly qualified employee,1,good
+676,No Account,24,default,furniture/equipment,5150,little,>= 7 years,4,male   : single,none,4,car,33,none,own,1,skilled employee,1,good
+677,moderate,72,paid back,radio/television,5595,moderate,1 to <4 years,2,male   : married/widowed,none,2,car,24,none,own,1,skilled employee,1,bad
+678,little,24,paid back,radio/television,2384,little,>= 7 years,4,male   : single,none,4,real estate,64,bank,rent,1,unskilled/resident,1,good
+679,No Account,18,paid back,radio/television,1453,little,< 1 year,3,female : divorced/separated/married,none,1,real estate,26,none,own,1,skilled employee,1,good
+680,No Account,6,paid back,education,1538,little,< 1 year,1,female : divorced/separated/married,none,2,no property,56,none,own,1,skilled employee,1,good
+681,No Account,12,paid back,radio/television,2279,unknown,1 to <4 years,4,male   : single,none,4,no property,37,none,for free,1,skilled employee,1,good
+682,No Account,15,delay,radio/television,1478,little,1 to <4 years,4,male   : married/widowed,none,3,real estate,33,bank,own,2,skilled employee,1,good
+683,No Account,24,default,radio/television,5103,little,< 1 year,3,male   : married/widowed,none,3,no property,47,none,for free,3,skilled employee,1,good
+684,moderate,36,delay,business,9857,moderate,4 to <7 years,1,male   : single,none,3,life insurance,31,none,own,2,unskilled/resident,2,good
+685,No Account,60,paid back,car,6527,unknown,1 to <4 years,4,male   : single,none,4,no property,34,none,for free,1,skilled employee,2,good
+686,rich,10,default,radio/television,1347,unknown,4 to <7 years,4,male   : single,none,2,life insurance,27,none,own,2,skilled employee,1,good
+687,moderate,36,delay,car,2862,moderate,>= 7 years,4,male   : single,none,3,no property,30,none,for free,1,skilled employee,1,good
+688,No Account,9,paid back,radio/television,2753,moderate,>= 7 years,3,male   : single,co-applicant,4,car,35,none,own,1,skilled employee,1,good
+689,little,12,paid back,car,3651,rich,1 to <4 years,1,male   : single,none,3,life insurance,31,none,own,1,skilled employee,2,good
+690,little,15,default,furniture/equipment,975,little,1 to <4 years,2,male   : divorced/separated,none,3,life insurance,25,none,own,2,skilled employee,1,good
+691,moderate,15,paid back,repairs,2631,moderate,1 to <4 years,3,female : divorced/separated/married,none,2,real estate,25,none,own,1,unskilled/resident,1,good
+692,moderate,24,paid back,radio/television,2896,moderate,< 1 year,2,male   : single,none,1,car,29,none,own,1,skilled employee,1,good
+693,little,6,default,car,4716,unknown,< 1 year,1,male   : single,none,3,real estate,44,none,own,2,unskilled/resident,2,good
+694,No Account,24,paid back,radio/television,2284,little,4 to <7 years,4,male   : single,none,2,car,28,none,own,1,skilled employee,1,good
+695,No Account,6,paid back,car,1236,quite rich,1 to <4 years,2,male   : single,none,4,life insurance,50,none,rent,1,skilled employee,1,good
+696,moderate,12,paid back,radio/television,1103,little,4 to <7 years,4,male   : single,guarantor,3,real estate,29,none,own,2,skilled employee,1,good
+697,No Account,12,default,car,926,little,unemployed,1,female : divorced/separated/married,none,2,life insurance,38,none,own,1,unemployed/non-resident,1,good
+698,No Account,18,default,radio/television,1800,little,1 to <4 years,4,male   : single,none,2,car,24,none,own,2,skilled employee,1,good
+699,rich,15,paid back,education,1905,little,>= 7 years,4,male   : single,none,4,car,40,none,rent,1,management/highly qualified employee,1,good
+700,No Account,12,paid back,furniture/equipment,1123,quite rich,1 to <4 years,4,female : divorced/separated/married,none,4,car,29,none,rent,1,unskilled/resident,1,bad
+701,little,48,default,car,6331,little,>= 7 years,4,male   : single,none,4,no property,46,none,for free,2,skilled employee,1,bad
+702,rich,24,paid back,radio/television,1377,moderate,>= 7 years,4,female : divorced/separated/married,none,2,no property,47,none,for free,1,skilled employee,1,good
+703,moderate,30,delay,business,2503,moderate,>= 7 years,4,male   : single,none,2,life insurance,41,stores,own,2,skilled employee,1,good
+704,moderate,27,paid back,business,2528,little,< 1 year,4,female : divorced/separated/married,none,1,life insurance,32,none,own,1,skilled employee,2,good
+705,No Account,15,paid back,car,5324,quite rich,>= 7 years,1,female : divorced/separated/married,none,4,no property,35,none,for free,1,skilled employee,1,good
+706,moderate,48,paid back,car,6560,moderate,4 to <7 years,3,male   : single,none,2,life insurance,24,none,own,1,skilled employee,1,bad
+707,moderate,12,paid back,furniture/equipment,2969,little,< 1 year,4,female : divorced/separated/married,none,3,life insurance,25,none,rent,2,skilled employee,1,bad
+708,moderate,9,paid back,radio/television,1206,little,>= 7 years,4,female : divorced/separated/married,none,4,real estate,25,none,own,1,skilled employee,1,good
+709,moderate,9,paid back,radio/television,2118,little,1 to <4 years,2,male   : single,none,2,real estate,37,none,own,1,unskilled/resident,2,good
+710,No Account,18,default,radio/television,629,quite rich,>= 7 years,4,male   : single,none,3,life insurance,32,bank,own,2,management/highly qualified employee,1,good
+711,little,6,paid back,education,1198,little,>= 7 years,4,female : divorced/separated/married,none,4,no property,35,none,for free,1,skilled employee,1,bad
+712,No Account,21,paid back,car,2476,unknown,>= 7 years,4,male   : single,none,4,real estate,46,none,own,1,management/highly qualified employee,1,good
+713,little,9,default,radio/television,1138,little,1 to <4 years,4,male   : single,none,4,real estate,25,none,own,2,unskilled/resident,1,good
+714,moderate,60,paid back,car,14027,little,4 to <7 years,4,male   : single,none,2,no property,27,none,own,1,management/highly qualified employee,1,bad
+715,No Account,30,default,car,7596,unknown,>= 7 years,1,male   : single,none,4,car,63,none,own,2,skilled employee,1,good
+716,No Account,30,default,radio/television,3077,unknown,>= 7 years,3,male   : single,none,2,car,40,none,own,2,skilled employee,2,good
+717,No Account,18,paid back,radio/television,1505,little,1 to <4 years,4,male   : single,none,2,no property,32,none,for free,1,management/highly qualified employee,1,good
+718,rich,24,default,radio/television,3148,unknown,1 to <4 years,3,male   : single,none,2,car,31,none,own,2,skilled employee,1,good
+719,moderate,20,paid back,car,6148,moderate,>= 7 years,3,male   : married/widowed,none,4,car,31,bank,own,2,skilled employee,1,good
+720,rich,9,paid back,radio/television,1337,little,< 1 year,4,male   : single,none,2,car,34,none,own,2,management/highly qualified employee,1,bad
+721,moderate,6,paid back,education,433,rich,< 1 year,4,female : divorced/separated/married,none,2,life insurance,24,bank,rent,1,skilled employee,2,bad
+722,little,12,paid back,car,1228,little,1 to <4 years,4,female : divorced/separated/married,none,2,real estate,24,none,own,1,unskilled/resident,1,bad
+723,moderate,9,paid back,radio/television,790,quite rich,1 to <4 years,4,female : divorced/separated/married,none,3,real estate,66,none,own,1,unskilled/resident,1,good
+724,No Account,27,paid back,car,2570,little,1 to <4 years,3,female : divorced/separated/married,none,3,real estate,21,none,rent,1,skilled employee,1,bad
+725,No Account,6,default,car,250,rich,1 to <4 years,2,female : divorced/separated/married,none,2,real estate,41,bank,own,2,unskilled/resident,1,good
+726,No Account,15,default,radio/television,1316,quite rich,1 to <4 years,2,male   : married/widowed,none,2,life insurance,47,none,own,2,unskilled/resident,1,good
+727,little,18,paid back,radio/television,1882,little,1 to <4 years,4,female : divorced/separated/married,none,4,car,25,bank,rent,2,skilled employee,1,bad
+728,moderate,48,paid back,business,6416,little,>= 7 years,4,female : divorced/separated/married,none,3,no property,59,none,rent,1,skilled employee,1,bad
+729,rich,24,default,business,1275,rich,1 to <4 years,2,male   : divorced/separated,none,4,real estate,36,none,own,2,skilled employee,1,good
+730,moderate,24,delay,radio/television,6403,little,< 1 year,1,male   : single,none,2,car,33,none,own,1,skilled employee,1,good
+731,little,24,paid back,radio/television,1987,little,1 to <4 years,2,male   : single,none,4,real estate,21,none,rent,1,unskilled/resident,2,bad
+732,moderate,8,paid back,radio/television,760,little,4 to <7 years,4,female : divorced/separated/married,guarantor,2,real estate,44,none,own,1,unskilled/resident,1,good
+733,No Account,24,paid back,car,2603,rich,1 to <4 years,2,female : divorced/separated/married,none,4,car,28,none,rent,1,skilled employee,1,good
+734,No Account,4,default,car,3380,little,4 to <7 years,1,female : divorced/separated/married,none,1,real estate,37,none,own,1,skilled employee,2,good
+735,moderate,36,paid back,domestic appliances,3990,unknown,< 1 year,3,female : divorced/separated/married,none,2,no property,29,bank,own,1,unemployed/non-resident,1,good
+736,moderate,24,paid back,car,11560,little,1 to <4 years,1,female : divorced/separated/married,none,4,car,23,none,rent,2,management/highly qualified employee,1,bad
+737,little,18,paid back,car,4380,moderate,1 to <4 years,3,male   : single,none,4,car,35,none,own,1,unskilled/resident,2,good
+738,No Account,6,default,car,6761,little,4 to <7 years,1,male   : single,none,3,no property,45,none,own,2,management/highly qualified employee,2,good
+739,moderate,30,paid back,business,4280,moderate,1 to <4 years,4,female : divorced/separated/married,none,4,car,26,none,rent,2,unskilled/resident,1,bad
+740,little,24,paid back,car,2325,moderate,4 to <7 years,2,male   : single,none,3,car,32,bank,own,1,skilled employee,1,good
+741,moderate,10,paid back,radio/television,1048,little,1 to <4 years,4,male   : single,none,4,real estate,23,stores,own,1,unskilled/resident,1,good
+742,No Account,21,paid back,radio/television,3160,unknown,>= 7 years,4,male   : single,none,3,life insurance,41,none,own,1,skilled employee,1,good
+743,little,24,paid back,furniture/equipment,2483,quite rich,1 to <4 years,4,male   : single,none,4,real estate,22,stores,own,1,skilled employee,1,good
+744,little,39,default,furniture/equipment,14179,unknown,4 to <7 years,4,male   : single,none,4,life insurance,30,none,own,2,management/highly qualified employee,1,good
+745,little,13,default,business,1797,little,< 1 year,3,male   : single,none,1,life insurance,28,bank,own,2,unskilled/resident,1,good
+746,little,15,paid back,car,2511,little,unemployed,1,female : divorced/separated/married,none,4,car,23,none,rent,1,skilled employee,1,good
+747,little,12,paid back,car,1274,little,< 1 year,3,female : divorced/separated/married,none,1,real estate,37,none,own,1,unskilled/resident,1,bad
+748,No Account,21,paid back,car,5248,unknown,1 to <4 years,1,male   : single,none,3,car,26,none,own,1,skilled employee,1,good
+749,No Account,15,paid back,car,3029,little,4 to <7 years,2,male   : single,none,2,car,33,none,own,1,skilled employee,1,good
+750,little,6,paid back,furniture/equipment,428,little,>= 7 years,2,female : divorced/separated/married,none,1,life insurance,49,bank,own,1,skilled employee,1,good
+751,little,18,paid back,car,976,little,< 1 year,1,female : divorced/separated/married,none,2,car,23,none,own,1,unskilled/resident,1,bad
+752,moderate,12,paid back,business,841,moderate,4 to <7 years,2,female : divorced/separated/married,none,4,real estate,23,none,rent,1,unskilled/resident,1,good
+753,No Account,30,default,radio/television,5771,little,4 to <7 years,4,female : divorced/separated/married,none,2,car,25,none,own,2,skilled employee,1,good
+754,No Account,12,delay,repairs,1555,rich,>= 7 years,4,male   : single,none,4,no property,55,none,for free,2,skilled employee,2,bad
+755,little,24,paid back,car,1285,unknown,4 to <7 years,4,female : divorced/separated/married,none,4,no property,32,none,rent,1,skilled employee,1,bad
+756,rich,6,default,car,1299,little,1 to <4 years,1,male   : single,none,1,real estate,74,none,own,3,unemployed/non-resident,2,good
+757,rich,15,default,radio/television,1271,unknown,1 to <4 years,3,male   : single,none,4,no property,39,none,for free,2,skilled employee,1,bad
+758,No Account,24,paid back,car,1393,little,1 to <4 years,2,male   : single,guarantor,2,real estate,31,none,own,1,skilled employee,1,good
+759,little,12,default,car,691,little,>= 7 years,4,male   : single,none,3,life insurance,35,none,own,2,skilled employee,1,bad
+760,No Account,15,default,car,5045,unknown,>= 7 years,1,female : divorced/separated/married,none,4,car,59,none,own,1,skilled employee,1,good
+761,little,18,default,furniture/equipment,2124,little,1 to <4 years,4,female : divorced/separated/married,none,4,real estate,24,none,rent,2,skilled employee,1,bad
+762,little,12,paid back,radio/television,2214,little,1 to <4 years,4,male   : single,none,3,life insurance,24,none,own,1,unskilled/resident,1,good
+763,No Account,21,default,car,12680,unknown,>= 7 years,4,male   : single,none,4,no property,30,none,for free,1,management/highly qualified employee,1,bad
+764,No Account,24,default,car,2463,moderate,4 to <7 years,4,male   : married/widowed,none,3,life insurance,27,none,own,2,skilled employee,1,good
+765,moderate,12,paid back,radio/television,1155,little,>= 7 years,3,male   : married/widowed,guarantor,3,real estate,40,bank,own,2,unskilled/resident,1,good
+766,little,30,paid back,furniture/equipment,3108,little,< 1 year,2,male   : divorced/separated,none,4,life insurance,31,none,own,1,unskilled/resident,1,bad
+767,No Account,10,paid back,car,2901,unknown,< 1 year,1,female : divorced/separated/married,none,4,real estate,31,none,rent,1,skilled employee,1,good
+768,moderate,12,default,furniture/equipment,3617,little,>= 7 years,1,male   : single,none,4,car,28,none,rent,3,skilled employee,1,good
+769,No Account,12,default,radio/television,1655,little,>= 7 years,2,male   : single,none,4,real estate,63,none,own,2,unskilled/resident,1,good
+770,little,24,paid back,car,2812,unknown,>= 7 years,2,female : divorced/separated/married,none,4,real estate,26,none,rent,1,skilled employee,1,good
+771,little,36,default,education,8065,little,1 to <4 years,3,female : divorced/separated/married,none,2,no property,25,none,own,2,management/highly qualified employee,1,bad
+772,No Account,21,default,car,3275,little,>= 7 years,1,male   : single,none,4,car,36,none,own,1,management/highly qualified employee,1,good
+773,No Account,24,default,radio/television,2223,moderate,>= 7 years,4,male   : single,none,4,life insurance,52,bank,own,2,skilled employee,1,good
+774,rich,12,default,car,1480,quite rich,unemployed,2,male   : single,none,4,no property,66,bank,for free,3,unemployed/non-resident,1,good
+775,little,24,paid back,car,1371,unknown,1 to <4 years,4,female : divorced/separated/married,none,4,real estate,25,none,rent,1,skilled employee,1,bad
+776,No Account,36,default,car,3535,little,4 to <7 years,4,male   : single,none,4,car,37,none,own,2,skilled employee,1,good
+777,little,18,paid back,radio/television,3509,little,4 to <7 years,4,female : divorced/separated/married,guarantor,1,real estate,25,none,own,1,skilled employee,1,good
+778,No Account,36,default,car,5711,rich,>= 7 years,4,male   : single,none,2,car,38,none,own,2,management/highly qualified employee,1,good
+779,moderate,18,paid back,repairs,3872,little,unemployed,2,female : divorced/separated/married,none,4,car,67,none,own,1,skilled employee,1,good
+780,moderate,39,default,radio/television,4933,little,4 to <7 years,2,male   : single,guarantor,2,real estate,25,none,own,2,skilled employee,1,bad
+781,No Account,24,default,car,1940,rich,>= 7 years,4,male   : single,none,4,real estate,60,none,own,1,skilled employee,1,good
+782,moderate,12,paid back,retraining,1410,little,1 to <4 years,2,male   : single,none,2,real estate,31,none,own,1,unskilled/resident,1,good
+783,moderate,12,paid back,car,836,moderate,< 1 year,4,female : divorced/separated/married,none,2,life insurance,23,bank,own,1,unskilled/resident,1,bad
+784,moderate,20,paid back,car,6468,unknown,unemployed,1,male   : divorced/separated,none,4,real estate,60,none,own,1,management/highly qualified employee,1,good
+785,moderate,18,paid back,business,1941,rich,1 to <4 years,4,male   : single,none,2,life insurance,35,none,own,1,unskilled/resident,1,good
+786,No Account,22,paid back,radio/television,2675,quite rich,>= 7 years,3,male   : single,none,4,car,40,none,own,1,skilled employee,1,good
+787,No Account,48,default,car,2751,unknown,>= 7 years,4,male   : single,none,3,car,38,none,own,2,skilled employee,2,good
+788,moderate,48,delay,education,6224,little,>= 7 years,4,male   : single,none,4,no property,50,none,for free,1,skilled employee,1,bad
+789,little,40,default,education,5998,little,1 to <4 years,4,male   : single,none,3,no property,27,bank,own,1,skilled employee,1,bad
+790,moderate,21,paid back,business,1188,little,>= 7 years,2,female : divorced/separated/married,none,4,life insurance,39,none,own,1,skilled employee,2,bad
+791,No Account,24,paid back,car,6313,unknown,>= 7 years,3,male   : single,none,4,car,41,none,own,1,management/highly qualified employee,2,good
+792,No Account,6,default,furniture/equipment,1221,unknown,1 to <4 years,1,male   : married/widowed,none,2,life insurance,27,none,own,2,skilled employee,1,good
+793,rich,24,paid back,furniture/equipment,2892,little,>= 7 years,3,male   : divorced/separated,none,4,no property,51,none,for free,1,skilled employee,1,good
+794,No Account,24,paid back,furniture/equipment,3062,quite rich,>= 7 years,4,male   : single,none,3,no property,32,none,rent,1,skilled employee,1,good
+795,No Account,9,paid back,furniture/equipment,2301,moderate,< 1 year,2,female : divorced/separated/married,none,4,life insurance,22,none,rent,1,skilled employee,1,good
+796,little,18,paid back,car,7511,unknown,>= 7 years,1,male   : single,none,4,life insurance,51,none,for free,1,skilled employee,2,bad
+797,No Account,12,default,furniture/equipment,1258,little,< 1 year,2,female : divorced/separated/married,none,4,life insurance,22,none,rent,2,unskilled/resident,1,good
+798,No Account,24,delay,car,717,unknown,>= 7 years,4,male   : married/widowed,none,4,car,54,none,own,2,skilled employee,1,good
+799,moderate,9,paid back,car,1549,unknown,< 1 year,4,male   : single,none,2,real estate,35,none,own,1,unemployed/non-resident,1,good
+800,No Account,24,default,education,1597,little,>= 7 years,4,male   : single,none,4,no property,54,none,for free,2,skilled employee,2,good
+801,moderate,18,default,radio/television,1795,little,>= 7 years,3,female : divorced/separated/married,guarantor,4,real estate,48,bank,rent,2,unskilled/resident,1,good
+802,little,20,default,furniture/equipment,4272,little,>= 7 years,1,female : divorced/separated/married,none,4,life insurance,24,none,own,2,skilled employee,1,good
+803,No Account,12,default,radio/television,976,unknown,>= 7 years,4,male   : single,none,4,car,35,none,own,2,skilled employee,1,good
+804,moderate,12,paid back,car,7472,unknown,unemployed,1,female : divorced/separated/married,none,2,real estate,24,none,rent,1,unemployed/non-resident,1,good
+805,little,36,paid back,car,9271,little,4 to <7 years,2,male   : single,none,1,car,24,none,own,1,skilled employee,1,bad
+806,moderate,6,paid back,radio/television,590,little,< 1 year,3,male   : married/widowed,none,3,real estate,26,none,own,1,unskilled/resident,1,good
+807,No Account,12,default,radio/television,930,unknown,>= 7 years,4,male   : single,none,4,real estate,65,none,own,4,skilled employee,1,good
+808,moderate,42,paid back,car,9283,little,unemployed,1,male   : single,none,2,no property,55,bank,for free,1,management/highly qualified employee,1,good
+809,moderate,15,paid back,car,1778,little,< 1 year,2,female : divorced/separated/married,none,1,real estate,26,none,rent,2,unemployed/non-resident,1,bad
+810,moderate,8,paid back,business,907,little,< 1 year,3,male   : married/widowed,none,2,real estate,26,none,own,1,skilled employee,1,good
+811,moderate,6,paid back,radio/television,484,little,4 to <7 years,3,male   : married/widowed,guarantor,3,real estate,28,bank,own,1,unskilled/resident,1,good
+812,little,36,default,car,9629,little,4 to <7 years,4,male   : single,none,4,car,24,none,own,2,skilled employee,1,bad
+813,little,48,paid back,domestic appliances,3051,little,1 to <4 years,3,male   : single,none,4,car,54,none,own,1,skilled employee,1,bad
+814,little,48,paid back,car,3931,little,4 to <7 years,4,male   : single,none,4,no property,46,none,for free,1,skilled employee,2,bad
+815,moderate,36,delay,car,7432,little,1 to <4 years,2,female : divorced/separated/married,none,2,life insurance,54,none,rent,1,skilled employee,1,good
+816,No Account,6,paid back,domestic appliances,1338,quite rich,1 to <4 years,1,male   : divorced/separated,none,4,real estate,62,none,own,1,skilled employee,1,good
+817,No Account,6,default,radio/television,1554,little,4 to <7 years,1,female : divorced/separated/married,none,2,car,24,none,rent,2,skilled employee,1,good
+818,little,36,paid back,others,15857,little,unemployed,2,male   : divorced/separated,co-applicant,3,car,43,none,own,1,management/highly qualified employee,1,good
+819,little,18,paid back,radio/television,1345,little,1 to <4 years,4,male   : married/widowed,none,3,real estate,26,bank,own,1,skilled employee,1,bad
+820,No Account,12,paid back,car,1101,little,1 to <4 years,3,male   : married/widowed,none,2,real estate,27,none,own,2,skilled employee,1,good
+821,rich,12,paid back,radio/television,3016,little,1 to <4 years,3,male   : married/widowed,none,1,car,24,none,own,1,skilled employee,1,good
+822,little,36,paid back,furniture/equipment,2712,little,>= 7 years,2,male   : single,none,2,life insurance,41,bank,own,1,skilled employee,2,bad
+823,little,8,default,car,731,little,>= 7 years,4,male   : single,none,4,real estate,47,none,own,2,unskilled/resident,1,good
+824,No Account,18,default,furniture/equipment,3780,little,< 1 year,3,male   : divorced/separated,none,2,car,35,none,own,2,management/highly qualified employee,1,good
+825,little,21,default,car,1602,little,>= 7 years,4,male   : married/widowed,none,3,car,30,none,own,2,skilled employee,1,good
+826,little,18,default,car,3966,little,>= 7 years,1,female : divorced/separated/married,none,4,real estate,33,bank,rent,3,skilled employee,1,bad
+827,No Account,18,paid back,business,4165,little,1 to <4 years,2,male   : single,none,2,car,36,stores,own,2,skilled employee,2,bad
+828,little,36,paid back,car,8335,unknown,>= 7 years,3,male   : single,none,4,no property,47,none,for free,1,skilled employee,1,bad
+829,moderate,48,delay,business,6681,unknown,1 to <4 years,4,male   : single,none,4,no property,38,none,for free,1,skilled employee,2,good
+830,No Account,24,delay,business,2375,quite rich,1 to <4 years,4,male   : single,none,2,car,44,none,own,2,skilled employee,2,good
+831,little,18,paid back,car,1216,little,< 1 year,4,female : divorced/separated/married,none,3,car,23,none,rent,1,skilled employee,1,bad
+832,little,45,paid back,business,11816,little,>= 7 years,2,male   : single,none,4,car,29,none,rent,2,skilled employee,1,bad
+833,moderate,24,paid back,radio/television,5084,unknown,>= 7 years,2,female : divorced/separated/married,none,4,car,42,none,own,1,skilled employee,1,good
+834,rich,15,paid back,radio/television,2327,little,< 1 year,2,female : divorced/separated/married,none,3,real estate,25,none,own,1,unskilled/resident,1,bad
+835,little,12,paid back,car,1082,little,1 to <4 years,4,male   : single,none,4,car,48,bank,own,2,skilled employee,1,bad
+836,No Account,12,paid back,radio/television,886,unknown,1 to <4 years,4,female : divorced/separated/married,none,2,car,21,none,own,1,skilled employee,1,good
+837,No Account,4,paid back,furniture/equipment,601,little,< 1 year,1,female : divorced/separated/married,none,3,real estate,23,none,rent,1,unskilled/resident,2,good
+838,little,24,default,car,2957,little,>= 7 years,4,male   : single,none,4,life insurance,63,none,own,2,skilled employee,1,good
+839,No Account,24,default,radio/television,2611,little,>= 7 years,4,male   : married/widowed,co-applicant,3,real estate,46,none,own,2,skilled employee,1,good
+840,little,36,paid back,furniture/equipment,5179,little,4 to <7 years,4,male   : single,none,2,life insurance,29,none,own,1,skilled employee,1,bad
+841,No Account,21,delay,car,2993,little,1 to <4 years,3,male   : single,none,2,real estate,28,stores,own,2,unskilled/resident,1,good
+842,No Account,18,paid back,repairs,1943,little,< 1 year,4,female : divorced/separated/married,none,4,real estate,23,none,own,1,skilled employee,1,bad
+843,No Account,24,paid back,business,1559,little,4 to <7 years,4,male   : single,none,4,car,50,bank,own,1,skilled employee,1,good
+844,No Account,18,paid back,furniture/equipment,3422,little,>= 7 years,4,male   : single,none,4,life insurance,47,bank,own,3,skilled employee,2,good
+845,moderate,21,paid back,furniture/equipment,3976,unknown,4 to <7 years,2,male   : single,none,3,car,35,none,own,1,skilled employee,1,good
+846,No Account,18,paid back,car,6761,unknown,1 to <4 years,2,male   : single,none,4,car,68,none,rent,2,skilled employee,1,bad
+847,No Account,24,paid back,car,1249,little,< 1 year,4,male   : married/widowed,none,2,real estate,28,none,own,1,skilled employee,1,good
+848,little,9,paid back,radio/television,1364,little,4 to <7 years,3,male   : single,none,4,real estate,59,none,own,1,skilled employee,1,good
+849,little,12,paid back,radio/television,709,little,>= 7 years,4,male   : single,none,4,real estate,57,stores,own,1,unskilled/resident,1,bad
+850,little,20,default,car,2235,little,1 to <4 years,4,male   : married/widowed,guarantor,2,life insurance,33,bank,rent,2,skilled employee,1,bad
+851,No Account,24,default,car,4042,unknown,4 to <7 years,3,male   : single,none,4,life insurance,43,none,own,2,skilled employee,1,good
+852,No Account,15,default,radio/television,1471,little,1 to <4 years,4,male   : single,none,4,no property,35,none,for free,2,skilled employee,1,good
+853,little,18,paid back,car,1442,little,4 to <7 years,4,male   : single,none,4,no property,32,none,for free,2,unskilled/resident,2,bad
+854,No Account,36,delay,car,10875,little,>= 7 years,2,male   : single,none,2,car,45,none,own,2,skilled employee,2,good
+855,No Account,24,paid back,car,1474,moderate,< 1 year,4,male   : married/widowed,none,3,real estate,33,none,own,1,skilled employee,1,good
+856,No Account,10,paid back,retraining,894,unknown,4 to <7 years,4,female : divorced/separated/married,none,3,life insurance,40,none,own,1,skilled employee,1,good
+857,No Account,15,default,furniture/equipment,3343,little,1 to <4 years,4,male   : single,none,2,no property,28,none,for free,1,skilled employee,1,good
+858,little,15,paid back,car,3959,little,1 to <4 years,3,female : divorced/separated/married,none,2,life insurance,29,none,own,1,skilled employee,1,bad
+859,No Account,9,paid back,car,3577,moderate,1 to <4 years,1,male   : single,guarantor,2,real estate,26,none,rent,1,skilled employee,2,good
+860,No Account,24,default,car,5804,rich,1 to <4 years,4,male   : single,none,2,real estate,27,none,own,2,skilled employee,1,good
+861,No Account,18,delay,business,2169,little,1 to <4 years,4,male   : married/widowed,none,2,car,28,none,own,1,skilled employee,1,bad
+862,little,24,paid back,radio/television,2439,little,< 1 year,4,female : divorced/separated/married,none,4,real estate,35,none,own,1,skilled employee,1,bad
+863,No Account,27,default,furniture/equipment,4526,rich,< 1 year,4,male   : single,none,2,real estate,32,stores,own,2,unskilled/resident,2,good
+864,No Account,10,paid back,furniture/equipment,2210,little,1 to <4 years,2,male   : single,none,2,real estate,25,bank,rent,1,unskilled/resident,1,bad
+865,No Account,15,paid back,furniture/equipment,2221,quite rich,1 to <4 years,2,female : divorced/separated/married,none,4,car,20,none,rent,1,skilled employee,1,good
+866,little,18,paid back,radio/television,2389,little,< 1 year,4,female : divorced/separated/married,none,1,car,27,stores,own,1,skilled employee,1,good
+867,No Account,12,default,furniture/equipment,3331,little,>= 7 years,2,male   : single,none,4,life insurance,42,stores,own,1,skilled employee,1,good
+868,No Account,36,paid back,business,7409,unknown,>= 7 years,3,male   : single,none,2,life insurance,37,none,own,2,skilled employee,1,good
+869,little,12,paid back,furniture/equipment,652,little,>= 7 years,4,female : divorced/separated/married,none,4,life insurance,24,none,rent,1,skilled employee,1,good
+870,No Account,36,delay,furniture/equipment,7678,quite rich,4 to <7 years,2,female : divorced/separated/married,none,4,car,40,none,own,2,skilled employee,1,good
+871,rich,6,default,car,1343,little,>= 7 years,1,male   : single,none,4,real estate,46,none,own,2,skilled employee,2,good
+872,little,24,default,business,1382,moderate,4 to <7 years,4,male   : single,none,1,real estate,26,none,own,2,skilled employee,1,good
+873,No Account,15,paid back,domestic appliances,874,unknown,< 1 year,4,female : divorced/separated/married,none,1,real estate,24,none,own,1,skilled employee,1,good
+874,little,12,paid back,furniture/equipment,3590,little,1 to <4 years,2,male   : single,co-applicant,2,life insurance,29,none,own,1,unskilled/resident,2,good
+875,moderate,11,default,car,1322,rich,1 to <4 years,4,female : divorced/separated/married,none,4,car,40,none,own,2,skilled employee,1,good
+876,little,18,paid back,radio/television,1940,little,< 1 year,3,male   : single,co-applicant,4,no property,36,bank,for free,1,management/highly qualified employee,1,good
+877,No Account,36,paid back,radio/television,3595,little,>= 7 years,4,male   : single,none,2,car,28,none,own,1,skilled employee,1,good
+878,little,9,paid back,car,1422,little,< 1 year,3,male   : single,none,2,no property,27,none,for free,1,management/highly qualified employee,1,bad
+879,No Account,30,default,radio/television,6742,unknown,4 to <7 years,2,male   : single,none,3,life insurance,36,none,own,2,skilled employee,1,good
+880,No Account,24,paid back,car,7814,little,4 to <7 years,3,male   : single,none,3,car,38,none,own,1,management/highly qualified employee,1,good
+881,No Account,24,paid back,car,9277,unknown,1 to <4 years,2,male   : divorced/separated,none,4,no property,48,none,for free,1,skilled employee,1,good
+882,moderate,30,default,car,2181,unknown,>= 7 years,4,male   : single,none,4,real estate,36,none,own,2,skilled employee,1,good
+883,No Account,18,default,radio/television,1098,little,unemployed,4,female : divorced/separated/married,none,4,car,65,none,own,2,unemployed/non-resident,1,good
+884,moderate,24,paid back,furniture/equipment,4057,little,4 to <7 years,3,male   : divorced/separated,none,3,car,43,none,own,1,skilled employee,1,bad
+885,little,12,paid back,education,795,little,< 1 year,4,female : divorced/separated/married,none,4,life insurance,53,none,own,1,skilled employee,1,bad
+886,moderate,24,default,business,2825,unknown,4 to <7 years,4,male   : single,none,3,no property,34,none,own,2,skilled employee,2,good
+887,moderate,48,paid back,business,15672,little,1 to <4 years,2,male   : single,none,2,car,23,none,own,1,skilled employee,1,bad
+888,No Account,36,default,car,6614,little,>= 7 years,4,male   : single,none,4,car,34,none,own,2,management/highly qualified employee,1,good
+889,No Account,28,paid back,car,7824,unknown,< 1 year,3,male   : single,guarantor,4,real estate,40,bank,rent,2,skilled employee,2,good
+890,little,27,default,business,2442,little,>= 7 years,4,male   : single,none,4,car,43,stores,own,4,management/highly qualified employee,2,good
+891,No Account,15,default,radio/television,1829,little,>= 7 years,4,male   : single,none,4,car,46,none,own,2,skilled employee,1,good
+892,little,12,default,car,2171,little,1 to <4 years,4,male   : single,none,4,life insurance,38,bank,own,2,unskilled/resident,1,good
+893,moderate,36,default,car,5800,little,1 to <4 years,3,male   : single,none,4,car,34,none,own,2,skilled employee,1,good
+894,No Account,18,default,radio/television,1169,unknown,1 to <4 years,4,male   : single,none,3,life insurance,29,none,own,2,skilled employee,1,good
+895,No Account,36,delay,car,8947,unknown,4 to <7 years,3,male   : single,none,2,car,31,stores,own,1,management/highly qualified employee,2,good
+896,little,21,paid back,radio/television,2606,little,< 1 year,4,female : divorced/separated/married,none,4,life insurance,28,none,rent,1,management/highly qualified employee,1,good
+897,No Account,12,default,furniture/equipment,1592,rich,4 to <7 years,3,female : divorced/separated/married,none,2,life insurance,35,none,own,1,skilled employee,1,good
+898,No Account,15,paid back,furniture/equipment,2186,unknown,4 to <7 years,1,female : divorced/separated/married,none,4,real estate,33,bank,rent,1,unskilled/resident,1,good
+899,little,18,paid back,furniture/equipment,4153,little,1 to <4 years,2,male   : single,co-applicant,3,car,42,none,own,1,skilled employee,1,bad
+900,little,16,default,car,2625,little,>= 7 years,2,male   : single,guarantor,4,life insurance,43,bank,rent,1,skilled employee,1,bad
+901,No Account,20,default,car,3485,unknown,< 1 year,2,male   : divorced/separated,none,4,real estate,44,none,own,2,skilled employee,1,good
+902,No Account,36,default,car,10477,unknown,>= 7 years,2,male   : single,none,4,no property,42,none,for free,2,skilled employee,1,good
+903,No Account,15,paid back,radio/television,1386,unknown,1 to <4 years,4,male   : married/widowed,none,2,real estate,40,none,rent,1,skilled employee,1,good
+904,No Account,24,paid back,radio/television,1278,little,>= 7 years,4,male   : single,none,1,real estate,36,none,own,1,management/highly qualified employee,1,good
+905,little,12,paid back,radio/television,1107,little,1 to <4 years,2,male   : single,none,2,real estate,20,none,rent,1,management/highly qualified employee,2,good
+906,little,21,paid back,car,3763,unknown,4 to <7 years,2,male   : single,co-applicant,2,real estate,24,none,own,1,unskilled/resident,1,good
+907,moderate,36,paid back,education,3711,unknown,1 to <4 years,2,male   : married/widowed,none,2,car,27,none,own,1,skilled employee,1,good
+908,No Account,15,delay,car,3594,little,< 1 year,1,female : divorced/separated/married,none,2,life insurance,46,none,own,2,unskilled/resident,1,good
+909,moderate,9,paid back,car,3195,unknown,1 to <4 years,1,female : divorced/separated/married,none,2,real estate,33,none,own,1,unskilled/resident,1,good
+910,No Account,36,delay,radio/television,4454,little,1 to <4 years,4,female : divorced/separated/married,none,4,real estate,34,none,own,2,skilled employee,1,good
+911,moderate,24,default,furniture/equipment,4736,little,< 1 year,2,female : divorced/separated/married,none,4,car,25,bank,own,1,unskilled/resident,1,bad
+912,moderate,30,paid back,radio/television,2991,unknown,>= 7 years,2,female : divorced/separated/married,none,4,car,25,none,own,1,skilled employee,1,good
+913,No Account,11,paid back,business,2142,rich,>= 7 years,1,male   : divorced/separated,none,2,real estate,28,none,own,1,skilled employee,1,good
+914,little,24,paid back,business,3161,little,1 to <4 years,4,male   : single,none,2,life insurance,31,none,rent,1,skilled employee,1,bad
+915,moderate,48,paid back,others,18424,little,1 to <4 years,1,female : divorced/separated/married,none,2,life insurance,32,bank,own,1,management/highly qualified employee,1,bad
+916,No Account,10,paid back,car,2848,moderate,1 to <4 years,1,male   : single,co-applicant,2,real estate,32,none,own,1,skilled employee,2,good
+917,little,6,paid back,car,14896,little,>= 7 years,1,male   : single,none,4,no property,68,bank,own,1,management/highly qualified employee,1,bad
+918,little,24,paid back,furniture/equipment,2359,moderate,unemployed,1,male   : divorced/separated,none,1,life insurance,33,none,own,1,skilled employee,1,bad
+919,little,24,paid back,furniture/equipment,3345,little,>= 7 years,4,male   : single,none,2,life insurance,39,none,rent,1,management/highly qualified employee,1,bad
+920,No Account,18,default,furniture/equipment,1817,little,1 to <4 years,4,female : divorced/separated/married,none,2,no property,28,none,own,2,skilled employee,1,good
+921,No Account,48,delay,radio/television,12749,quite rich,4 to <7 years,4,male   : single,none,1,car,37,none,own,1,management/highly qualified employee,1,good
+922,little,9,paid back,radio/television,1366,little,< 1 year,3,female : divorced/separated/married,none,4,life insurance,22,none,rent,1,skilled employee,1,bad
+923,moderate,12,paid back,car,2002,little,4 to <7 years,3,male   : single,none,4,life insurance,30,none,rent,1,skilled employee,2,good
+924,little,24,paid back,furniture/equipment,6872,little,< 1 year,2,male   : divorced/separated,none,1,life insurance,55,bank,own,1,skilled employee,1,bad
+925,little,12,paid back,car,697,little,< 1 year,4,male   : single,none,2,car,46,bank,own,2,skilled employee,1,bad
+926,little,18,default,furniture/equipment,1049,little,< 1 year,4,female : divorced/separated/married,none,4,life insurance,21,none,rent,1,skilled employee,1,good
+927,little,48,paid back,car,10297,little,4 to <7 years,4,male   : single,none,4,no property,39,stores,for free,3,skilled employee,2,bad
+928,No Account,30,paid back,radio/television,1867,unknown,>= 7 years,4,male   : single,none,4,car,58,none,own,1,skilled employee,1,good
+929,little,12,delay,car,1344,little,1 to <4 years,4,male   : single,none,2,real estate,43,none,own,2,unskilled/resident,2,good
+930,little,24,paid back,furniture/equipment,1747,little,< 1 year,4,male   : single,co-applicant,1,life insurance,24,none,own,1,unskilled/resident,1,good
+931,moderate,9,paid back,radio/television,1670,little,< 1 year,4,female : divorced/separated/married,none,2,car,22,none,own,1,skilled employee,1,bad
+932,No Account,9,default,car,1224,little,1 to <4 years,3,male   : single,none,1,real estate,30,none,own,2,skilled employee,1,good
+933,No Account,12,default,radio/television,522,quite rich,>= 7 years,4,male   : single,none,4,life insurance,42,none,own,2,skilled employee,2,good
+934,little,12,paid back,radio/television,1498,little,1 to <4 years,4,female : divorced/separated/married,none,1,car,23,bank,own,1,skilled employee,1,good
+935,moderate,30,delay,radio/television,1919,moderate,< 1 year,4,male   : single,none,3,no property,30,stores,own,2,management/highly qualified employee,1,bad
+936,rich,9,paid back,radio/television,745,little,1 to <4 years,3,female : divorced/separated/married,none,2,real estate,28,none,own,1,unskilled/resident,1,bad
+937,moderate,6,paid back,radio/television,2063,little,< 1 year,4,male   : married/widowed,none,3,car,30,none,rent,1,management/highly qualified employee,1,good
+938,moderate,60,paid back,education,6288,little,1 to <4 years,4,male   : single,none,4,no property,42,none,for free,1,skilled employee,1,bad
+939,No Account,24,default,car,6842,unknown,1 to <4 years,2,male   : single,none,4,life insurance,46,none,own,2,management/highly qualified employee,2,good
+940,No Account,12,paid back,car,3527,unknown,< 1 year,2,male   : single,none,3,life insurance,45,none,own,1,management/highly qualified employee,2,good
+941,No Account,10,paid back,car,1546,little,1 to <4 years,3,male   : single,none,2,real estate,31,none,own,1,unskilled/resident,2,good
+942,No Account,24,paid back,furniture/equipment,929,unknown,4 to <7 years,4,male   : single,none,2,car,31,stores,own,1,skilled employee,1,good
+943,No Account,4,default,car,1455,little,4 to <7 years,2,male   : single,none,1,real estate,42,none,own,3,unskilled/resident,2,good
+944,little,15,paid back,furniture/equipment,1845,little,< 1 year,4,female : divorced/separated/married,guarantor,1,life insurance,46,none,rent,1,skilled employee,1,good
+945,moderate,48,paid back,car,8358,quite rich,< 1 year,1,female : divorced/separated/married,none,1,car,30,none,own,2,skilled employee,1,good
+946,little,24,paid back,furniture/equipment,3349,quite rich,< 1 year,4,male   : single,none,4,no property,30,none,for free,1,skilled employee,2,bad
+947,No Account,12,paid back,car,2859,unknown,unemployed,4,male   : single,none,4,no property,38,none,own,1,management/highly qualified employee,1,good
+948,No Account,18,paid back,furniture/equipment,1533,little,< 1 year,4,male   : married/widowed,co-applicant,1,life insurance,43,none,own,1,unskilled/resident,2,bad
+949,No Account,24,paid back,radio/television,3621,moderate,>= 7 years,2,male   : single,none,4,car,31,none,own,2,skilled employee,1,bad
+950,moderate,18,default,business,3590,little,unemployed,3,male   : married/widowed,none,3,car,40,none,own,3,unemployed/non-resident,2,good
+951,little,36,delay,business,2145,little,4 to <7 years,2,male   : single,none,1,car,24,none,own,2,skilled employee,1,bad
+952,moderate,24,paid back,car,4113,quite rich,< 1 year,3,female : divorced/separated/married,none,4,car,28,none,rent,1,skilled employee,1,bad
+953,No Account,36,paid back,furniture/equipment,10974,little,unemployed,4,female : divorced/separated/married,none,2,car,26,none,own,2,management/highly qualified employee,1,bad
+954,little,12,paid back,car,1893,little,1 to <4 years,4,female : divorced/separated/married,guarantor,4,life insurance,29,none,own,1,skilled employee,1,good
+955,little,24,default,radio/television,1231,rich,>= 7 years,4,female : divorced/separated/married,none,4,life insurance,57,none,rent,2,management/highly qualified employee,1,good
+956,rich,30,default,radio/television,3656,unknown,>= 7 years,4,male   : single,none,4,life insurance,49,stores,own,2,unskilled/resident,1,good
+957,moderate,9,default,radio/television,1154,little,>= 7 years,2,male   : single,none,4,real estate,37,none,own,3,unskilled/resident,1,good
+958,little,28,paid back,car,4006,little,1 to <4 years,3,male   : single,none,2,car,45,none,own,1,unskilled/resident,1,bad
+959,moderate,24,paid back,furniture/equipment,3069,moderate,>= 7 years,4,male   : single,none,4,no property,30,none,for free,1,skilled employee,1,good
+960,No Account,6,default,radio/television,1740,little,>= 7 years,2,male   : married/widowed,none,2,real estate,30,none,rent,2,skilled employee,1,good
+961,moderate,21,delay,car,2353,little,1 to <4 years,1,male   : divorced/separated,none,4,life insurance,47,none,own,2,skilled employee,1,good
+962,No Account,15,paid back,car,3556,unknown,1 to <4 years,3,male   : single,none,2,no property,29,none,own,1,skilled employee,1,good
+963,No Account,24,paid back,radio/television,2397,quite rich,>= 7 years,3,male   : single,none,2,car,35,bank,own,2,skilled employee,1,bad
+964,moderate,6,paid back,repairs,454,little,< 1 year,3,male   : married/widowed,none,1,life insurance,22,none,own,1,unskilled/resident,1,good
+965,moderate,30,paid back,radio/television,1715,unknown,1 to <4 years,4,female : divorced/separated/married,none,1,car,26,none,own,1,skilled employee,1,good
+966,moderate,27,default,radio/television,2520,quite rich,1 to <4 years,4,male   : single,none,2,life insurance,23,none,own,2,unskilled/resident,1,bad
+967,No Account,15,paid back,radio/television,3568,little,>= 7 years,4,female : divorced/separated/married,none,2,car,54,bank,rent,1,management/highly qualified employee,1,good
+968,No Account,42,paid back,radio/television,7166,unknown,4 to <7 years,2,male   : married/widowed,none,4,life insurance,29,none,rent,1,skilled employee,1,good
+969,little,11,default,car,3939,little,1 to <4 years,1,male   : single,none,2,real estate,40,none,own,2,unskilled/resident,2,good
+970,moderate,15,paid back,repairs,1514,moderate,1 to <4 years,4,male   : single,guarantor,2,real estate,22,none,own,1,skilled employee,1,good
+971,No Account,24,paid back,car,7393,little,1 to <4 years,1,male   : single,none,4,life insurance,43,none,own,1,unskilled/resident,2,good
+972,little,24,paid back,car,1193,little,unemployed,1,female : divorced/separated/married,co-applicant,4,no property,29,none,rent,2,unemployed/non-resident,1,bad
+973,little,60,paid back,business,7297,little,>= 7 years,4,male   : single,co-applicant,4,no property,36,none,rent,1,skilled employee,1,bad
+974,No Account,30,default,radio/television,2831,little,1 to <4 years,4,female : divorced/separated/married,none,2,car,33,none,own,1,skilled employee,1,good
+975,rich,24,paid back,radio/television,1258,quite rich,1 to <4 years,3,female : divorced/separated/married,none,3,car,57,none,own,1,unskilled/resident,1,good
+976,moderate,6,paid back,radio/television,753,little,1 to <4 years,2,female : divorced/separated/married,guarantor,3,real estate,64,none,own,1,skilled employee,1,good
+977,moderate,18,delay,business,2427,unknown,>= 7 years,4,male   : single,none,2,life insurance,42,none,own,2,skilled employee,1,good
+978,No Account,24,delay,car,2538,little,>= 7 years,4,male   : single,none,4,car,47,none,own,2,unskilled/resident,2,bad
+979,No Account,6,default,furniture/equipment,1221,unknown,1 to <4 years,1,male   : married/widowed,none,2,life insurance,270,none,own,2,skilled employee,1,good
+980,moderate,15,paid back,car,1264,moderate,1 to <4 years,2,male   : married/widowed,none,2,life insurance,25,none,rent,1,skilled employee,1,bad
+981,moderate,30,default,furniture/equipment,8386,little,4 to <7 years,2,male   : single,none,2,life insurance,49,none,own,1,skilled employee,1,bad
+982,No Account,48,paid back,business,4844,little,unemployed,3,male   : single,none,2,car,33,bank,rent,1,management/highly qualified employee,1,bad
+983,rich,21,paid back,car,2923,moderate,1 to <4 years,1,female : divorced/separated/married,none,1,car,28,bank,own,1,management/highly qualified employee,1,good
+984,little,36,paid back,car,8229,little,1 to <4 years,2,male   : single,none,2,life insurance,26,none,own,1,skilled employee,2,bad
+985,No Account,24,default,furniture/equipment,2028,little,4 to <7 years,2,male   : single,none,2,life insurance,30,none,own,2,unskilled/resident,1,good
+986,little,15,default,furniture/equipment,1433,little,1 to <4 years,4,female : divorced/separated/married,none,3,life insurance,25,none,rent,2,skilled employee,1,good
+987,rich,42,paid back,business,6289,little,< 1 year,2,male   : divorced/separated,none,1,life insurance,33,none,own,2,skilled employee,1,good
+988,rich,42,,business,6289,little,< 1 year,2,male   : divorced/separated,none,1,life insurance,33,none,own,2,skilled employee,1,good
+989,No Account,13,paid back,radio/television,1409,moderate,unemployed,2,female : divorced/separated/married,none,4,real estate,64,none,own,1,skilled employee,1,good
+990,little,24,paid back,car,6579,little,unemployed,4,male   : single,none,2,no property,29,none,for free,1,management/highly qualified employee,1,good
+991,moderate,24,default,radio/television,1743,little,>= 7 years,4,male   : single,none,2,life insurance,48,none,own,2,unskilled/resident,1,good
+992,No Account,12,default,education,3565,unknown,< 1 year,2,male   : single,none,1,life insurance,37,none,own,2,unskilled/resident,2,good
+993,No Account,15,paid back,radio/television,1569,moderate,>= 7 years,4,male   : single,none,4,car,34,bank,own,1,unskilled/resident,2,good
+994,little,18,paid back,radio/television,1936,unknown,4 to <7 years,2,male   : married/widowed,none,4,car,23,none,rent,2,unskilled/resident,1,good
+995,little,36,paid back,furniture/equipment,3959,little,unemployed,4,male   : single,none,3,life insurance,30,none,own,1,management/highly qualified employee,1,good
+996,No Account,12,paid back,car,2390,unknown,>= 7 years,4,male   : single,none,3,car,50,none,own,1,skilled employee,1,good
+997,No Account,12,paid back,furniture/equipment,1736,little,4 to <7 years,3,female : divorced/separated/married,none,4,real estate,31,none,own,1,unskilled/resident,1,good
+998,little,30,paid back,car,3857,little,1 to <4 years,4,male   : divorced/separated,none,4,life insurance,40,none,own,1,management/highly qualified employee,1,good
+999,No Account,12,paid back,radio/television,804,little,>= 7 years,4,male   : single,none,4,car,38,none,own,1,skilled employee,1,good
+1000,little,45,paid back,radio/television,1845,little,1 to <4 years,4,male   : single,none,4,no property,23,none,for free,1,skilled employee,1,bad
+1001,moderate,45,default,car,4576,moderate,unemployed,3,male   : single,none,4,car,27,none,own,1,skilled employee,1,good
+1002,little,45,paid back,radio/television,1845,little,1 to <4 years,4,male   : single,none,4,no property,23,none,for free,1,,1,bad
